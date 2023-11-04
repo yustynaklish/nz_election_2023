@@ -1,0 +1,19 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Te Tai Hauāuru | HIPANGO, Harete | 1382 | National Party | 1215
+Te Tai Hauāuru | NGAREWA-PACKER, Debbie | 16358 | Te Pāti Māori | 9674
+Te Tai Hauāuru | PEKE-MASON, Soraya | 7136 | Labour Party | 11050
+Te Tai Hauāuru | WINIATA, Paris | 689 |  | 
+Te Tai Hauāuru |  |  | ACT New Zealand | 281
+Te Tai Hauāuru |  |  | Animal Justice Party | 29
+Te Tai Hauāuru |  |  | Aotearoa Legalise Cannabis Party | 299
+Te Tai Hauāuru |  |  | DemocracyNZ | 29
+Te Tai Hauāuru |  |  | Freedoms NZ | 209
+Te Tai Hauāuru |  |  | Green Party | 2122
+Te Tai Hauāuru |  |  | Leighton Baker Party | 18
+Te Tai Hauāuru |  |  | New Conservatives | 16
+Te Tai Hauāuru |  |  | New Nation Party | 6
+Te Tai Hauāuru |  |  | New Zealand First Party | 1135
+Te Tai Hauāuru |  |  | New Zealand Loyal | 343
+Te Tai Hauāuru |  |  | NewZeal | 132
+Te Tai Hauāuru |  |  | The Opportunities Party (TOP) | 185
+Te Tai Hauāuru |  |  | Women’s Rights Party | 20

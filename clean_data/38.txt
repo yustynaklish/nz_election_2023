@@ -1,0 +1,20 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Papakura | COLLINS, Judith | 24079 | National Party | 22042
+Papakura | HARVEY, Kathy | 443 |  | 
+Papakura | KANONGATA&#39;A, Anahila | 10620 | Labour Party | 8893
+Papakura | KERR, Karin | 428 |  | 
+Papakura | KOUKA, Donna | 636 | New Zealand Loyal | 418
+Papakura | McCORMICK, Mike | 3121 | ACT New Zealand | 4264
+Papakura | MONDS, Robert | 1728 | New Zealand First Party | 2238
+Papakura |  |  | Animal Justice Party | 61
+Papakura |  |  | Aotearoa Legalise Cannabis Party | 162
+Papakura |  |  | DemocracyNZ | 62
+Papakura |  |  | Freedoms NZ | 210
+Papakura |  |  | Green Party | 2710
+Papakura |  |  | Leighton Baker Party | 11
+Papakura |  |  | New Conservatives | 55
+Papakura |  |  | New Nation Party | 19
+Papakura |  |  | NewZeal | 260
+Papakura |  |  | Te Pāti Māori | 451
+Papakura |  |  | The Opportunities Party (TOP) | 542
+Papakura |  |  | Women’s Rights Party | 33

@@ -1,0 +1,20 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Māngere | ALAILIMA, Fuiavailili | 535 |  | 
+Māngere | BOURKE, Rosemary | 5585 | National Party | 5656
+Māngere | JOSEPH, Pothen | 670 | ACT New Zealand | 624
+Māngere | PAO STANLEY, Brooke | 502 |  | 
+Māngere | PETERS, Hilda | 934 | Te Pāti Māori | 628
+Māngere | SOSENE, Lemauga Lydia | 17285 | Labour Party | 18042
+Māngere | SYKES, Peter | 2712 | Green Party | 2306
+Māngere |  |  | Animal Justice Party | 41
+Māngere |  |  | Aotearoa Legalise Cannabis Party | 120
+Māngere |  |  | DemocracyNZ | 17
+Māngere |  |  | Freedoms NZ | 266
+Māngere |  |  | Leighton Baker Party | 12
+Māngere |  |  | New Conservatives | 54
+Māngere |  |  | New Nation Party | 11
+Māngere |  |  | New Zealand First Party | 973
+Māngere |  |  | New Zealand Loyal | 94
+Māngere |  |  | NewZeal | 244
+Māngere |  |  | The Opportunities Party (TOP) | 272
+Māngere |  |  | Women’s Rights Party | 26

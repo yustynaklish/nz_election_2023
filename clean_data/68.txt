@@ -1,0 +1,19 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Tāmaki Makaurau | HENARE, Peeni | 10046 | Labour Party | 11574
+Tāmaki Makaurau | KEMP, Takutai Tarsh | 10050 | Te Pāti Māori | 8048
+Tāmaki Makaurau | TAMAKI, Hannah | 829 |  | 
+Tāmaki Makaurau | TANA, Darleen | 2911 | Green Party | 3230
+Tāmaki Makaurau | TE HAU, Hinurewa | 1274 | National Party | 1269
+Tāmaki Makaurau |  |  | ACT New Zealand | 254
+Tāmaki Makaurau |  |  | Animal Justice Party | 27
+Tāmaki Makaurau |  |  | Aotearoa Legalise Cannabis Party | 248
+Tāmaki Makaurau |  |  | DemocracyNZ | 28
+Tāmaki Makaurau |  |  | Freedoms NZ | 478
+Tāmaki Makaurau |  |  | Leighton Baker Party | 7
+Tāmaki Makaurau |  |  | New Conservatives | 13
+Tāmaki Makaurau |  |  | New Nation Party | 2
+Tāmaki Makaurau |  |  | New Zealand First Party | 927
+Tāmaki Makaurau |  |  | New Zealand Loyal | 174
+Tāmaki Makaurau |  |  | NewZeal | 121
+Tāmaki Makaurau |  |  | The Opportunities Party (TOP) | 248
+Tāmaki Makaurau |  |  | Women’s Rights Party | 25

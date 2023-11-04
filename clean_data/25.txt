@@ -1,0 +1,18 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Mt Roskill | CHEUNG, Carlos | 15659 | National Party | 15828
+Mt Roskill | CHOPRA, Rahul | 2179 | ACT New Zealand | 2227
+Mt Roskill | SANIS WALGAMPOLA, Suveen | 3379 | Green Party | 4422
+Mt Roskill | WOOD, Michael Philip | 14094 | Labour Party | 10958
+Mt Roskill |  |  | Animal Justice Party | 49
+Mt Roskill |  |  | Aotearoa Legalise Cannabis Party | 97
+Mt Roskill |  |  | DemocracyNZ | 20
+Mt Roskill |  |  | Freedoms NZ | 93
+Mt Roskill |  |  | Leighton Baker Party | 4
+Mt Roskill |  |  | New Conservatives | 67
+Mt Roskill |  |  | New Nation Party | 9
+Mt Roskill |  |  | New Zealand First Party | 1294
+Mt Roskill |  |  | New Zealand Loyal | 131
+Mt Roskill |  |  | NewZeal | 196
+Mt Roskill |  |  | Te Pāti Māori | 289
+Mt Roskill |  |  | The Opportunities Party (TOP) | 765
+Mt Roskill |  |  | Women’s Rights Party | 24

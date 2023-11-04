@@ -1,0 +1,18 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Ilam | BRITNELL, Irinka | 488 | Aotearoa Legalise Cannabis Party | 179
+Ilam | CAMPBELL, Hamish | 18693 | National Party | 18452
+Ilam | DAVIDSON, Mike | 2391 | Green Party | 6401
+Ilam | MANJI, Raf | 10863 | The Opportunities Party (TOP) | 2138
+Ilam | O&#39;BRIEN, Chris | 300 | New Conservatives | 96
+Ilam | O&#39;CONNELL, Juanita | 329 | DemocracyNZ | 101
+Ilam | PALLETT, Sarah | 9010 | Labour Party | 9395
+Ilam |  |  | ACT New Zealand | 3557
+Ilam |  |  | Animal Justice Party | 50
+Ilam |  |  | Freedoms NZ | 55
+Ilam |  |  | Leighton Baker Party | 44
+Ilam |  |  | New Nation Party | 23
+Ilam |  |  | New Zealand First Party | 1729
+Ilam |  |  | New Zealand Loyal | 150
+Ilam |  |  | NewZeal | 85
+Ilam |  |  | Te Pāti Māori | 265
+Ilam |  |  | Women’s Rights Party | 47

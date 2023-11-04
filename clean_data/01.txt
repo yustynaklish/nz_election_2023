@@ -1,0 +1,20 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Auckland Central | COKER, Christopher | 365 | Aotearoa Legalise Cannabis Party | 142
+Auckland Central | DAVIE, Paul | 91 |  | 
+Auckland Central | KANE, Madeleine | 135 | Animal Justice Party | 50
+Auckland Central | LIU, Andi Shen | 110 |  | 
+Auckland Central | MURALIDHAR, Mahesh | 12728 | National Party | 11751
+Auckland Central | POOLE, Felix | 1251 | ACT New Zealand | 3301
+Auckland Central | SIMS, Oscar | 2592 | Labour Party | 8028
+Auckland Central | SLOCUM, Guy Dennis | 89 | New Nation Party | 26
+Auckland Central | SWARBRICK, Chlöe | 16624 | Green Party | 8503
+Auckland Central | SYCAMORE, Damian | 462 | The Opportunities Party (TOP) | 1250
+Auckland Central |  |  | DemocracyNZ | 32
+Auckland Central |  |  | Freedoms NZ | 48
+Auckland Central |  |  | Leighton Baker Party | 3
+Auckland Central |  |  | New Conservatives | 30
+Auckland Central |  |  | New Zealand First Party | 1351
+Auckland Central |  |  | New Zealand Loyal | 217
+Auckland Central |  |  | NewZeal | 38
+Auckland Central |  |  | Te Pāti Māori | 563
+Auckland Central |  |  | Women’s Rights Party | 45

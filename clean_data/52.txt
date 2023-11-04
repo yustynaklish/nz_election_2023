@@ -1,0 +1,20 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Tauranga | BALDOCK, Larry | 1039 |  | 
+Tauranga | CROOKS, Justin | 2729 | Green Party | 3766
+Tauranga | HARVEY, Erika | 3403 | New Zealand First Party | 3753
+Tauranga | LANGRIDGE, Jono | 245 | New Conservatives | 101
+Tauranga | SAMUELS, Leon | 285 |  | 
+Tauranga | STOKMAN, Chelsea Jordan | 246 | Animal Justice Party | 85
+Tauranga | SYDNEY, Mikaere Taingahue | 613 | Te Pāti Māori | 440
+Tauranga | TINETTI, Jan | 9610 | Labour Party | 7664
+Tauranga | UFFINDELL, Sam | 18980 | National Party | 19345
+Tauranga | YOUNG, Christine | 3791 | ACT New Zealand | 4471
+Tauranga |  |  | Aotearoa Legalise Cannabis Party | 124
+Tauranga |  |  | DemocracyNZ | 66
+Tauranga |  |  | Freedoms NZ | 171
+Tauranga |  |  | Leighton Baker Party | 24
+Tauranga |  |  | New Nation Party | 39
+Tauranga |  |  | New Zealand Loyal | 470
+Tauranga |  |  | NewZeal | 463
+Tauranga |  |  | The Opportunities Party (TOP) | 935
+Tauranga |  |  | Women’s Rights Party | 35

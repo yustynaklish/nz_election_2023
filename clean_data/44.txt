@@ -1,0 +1,19 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Rotorua | BLACK-VERCOE, Kariana | 1252 | NewZeal | 491
+Rotorua | McCLAY, Todd | 19339 | National Party | 15317
+Rotorua | NAERA, Jonn | 354 |  | 
+Rotorua | RAUKAWA-TAIT, Merepeka | 2731 | Te Pāti Māori | 851
+Rotorua | ROZEBOOM, Marten | 1732 | ACT New Zealand | 3543
+Rotorua | SANDFORD, Ben | 10416 | Labour Party | 8922
+Rotorua |  |  | Animal Justice Party | 54
+Rotorua |  |  | Aotearoa Legalise Cannabis Party | 177
+Rotorua |  |  | DemocracyNZ | 107
+Rotorua |  |  | Freedoms NZ | 233
+Rotorua |  |  | Green Party | 2885
+Rotorua |  |  | Leighton Baker Party | 28
+Rotorua |  |  | New Conservatives | 50
+Rotorua |  |  | New Nation Party | 35
+Rotorua |  |  | New Zealand First Party | 2835
+Rotorua |  |  | New Zealand Loyal | 618
+Rotorua |  |  | The Opportunities Party (TOP) | 638
+Rotorua |  |  | Women’s Rights Party | 33

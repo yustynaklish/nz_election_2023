@@ -1,0 +1,19 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Te Atatū | COURT, Simon | 2506 | ACT New Zealand | 2412
+Te Atatū | NEUMANN, Zooey | 3516 | Green Party | 4199
+Te Atatū | NICHOLAS, Angee | 14071 | National Party | 14045
+Te Atatū | PHILLIPS, Melanie | 482 |  | 
+Te Atatū | TAMIHERE, John | 1261 | Te Pāti Māori | 588
+Te Atatū | TWYFORD, Phil | 14202 | Labour Party | 12460
+Te Atatū |  |  | Animal Justice Party | 67
+Te Atatū |  |  | Aotearoa Legalise Cannabis Party | 151
+Te Atatū |  |  | DemocracyNZ | 37
+Te Atatū |  |  | Freedoms NZ | 106
+Te Atatū |  |  | Leighton Baker Party | 16
+Te Atatū |  |  | New Conservatives | 67
+Te Atatū |  |  | New Nation Party | 25
+Te Atatū |  |  | New Zealand First Party | 1681
+Te Atatū |  |  | New Zealand Loyal | 282
+Te Atatū |  |  | NewZeal | 354
+Te Atatū |  |  | The Opportunities Party (TOP) | 603
+Te Atatū |  |  | Women’s Rights Party | 40

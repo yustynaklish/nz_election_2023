@@ -1,0 +1,21 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+West Coast-Tasman | FARRELLY, Jackie | 1799 | New Zealand First Party | 4154
+West Coast-Tasman | GREY, Sue | 1554 |  | 
+West Coast-Tasman | LILLEY, Kelly | 2520 | ACT New Zealand | 5488
+West Coast-Tasman | MARINKOVICH, Sebastian | 1370 | New Zealand Loyal | 1489
+West Coast-Tasman | O&#39;CONNOR, Damien | 12300 | Labour Party | 9970
+West Coast-Tasman | OSMASTON, Richard | 88 |  | 
+West Coast-Tasman | PHELPS, Patrick Sean | 5903 |  | 
+West Coast-Tasman | PUGH, Maureen | 13317 | National Party | 14042
+West Coast-Tasman | RICHARDS, Steve | 2743 | Green Party | 4521
+West Coast-Tasman |  |  | Animal Justice Party | 99
+West Coast-Tasman |  |  | Aotearoa Legalise Cannabis Party | 281
+West Coast-Tasman |  |  | DemocracyNZ | 136
+West Coast-Tasman |  |  | Freedoms NZ | 289
+West Coast-Tasman |  |  | Leighton Baker Party | 40
+West Coast-Tasman |  |  | New Conservatives | 63
+West Coast-Tasman |  |  | New Nation Party | 19
+West Coast-Tasman |  |  | NewZeal | 254
+West Coast-Tasman |  |  | Te Pāti Māori | 290
+West Coast-Tasman |  |  | The Opportunities Party (TOP) | 792
+West Coast-Tasman |  |  | Women’s Rights Party | 46

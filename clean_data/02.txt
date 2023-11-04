@@ -1,0 +1,19 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Banks Peninsula | ALLINGTON, Doug | 474 | DemocracyNZ | 146
+Banks Peninsula | JEET, Paran | 369 | Animal Justice Party | 111
+Banks Peninsula | KERSLAKE, Lindsay | 1598 | New Zealand First Party | 2658
+Banks Peninsula | McLELLAN, Tracey | 17464 | Labour Party | 13200
+Banks Peninsula | MEAD, Lisa Marie | 544 | NewZeal | 323
+Banks Peninsula | PHAM, Lan | 8325 | Green Party | 9763
+Banks Peninsula | TRASK, Laura | 2073 | ACT New Zealand | 3919
+Banks Peninsula | WAKEMAN, Peter Keith | 184 |  | 
+Banks Peninsula | WEENINK, Vanessa | 17860 | National Party | 15839
+Banks Peninsula |  |  | Aotearoa Legalise Cannabis Party | 182
+Banks Peninsula |  |  | Freedoms NZ | 61
+Banks Peninsula |  |  | Leighton Baker Party | 53
+Banks Peninsula |  |  | New Conservatives | 62
+Banks Peninsula |  |  | New Nation Party | 22
+Banks Peninsula |  |  | New Zealand Loyal | 389
+Banks Peninsula |  |  | Te Pāti Māori | 388
+Banks Peninsula |  |  | The Opportunities Party (TOP) | 2401
+Banks Peninsula |  |  | Women’s Rights Party | 42

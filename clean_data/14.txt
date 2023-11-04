@@ -1,0 +1,19 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Hutt South | ANDERSEN, Ginny | 17812 | Labour Party | 14087
+Hutt South | BISHOP, Chris | 19144 | National Party | 14772
+Hutt South | BLAKE, Jordan | 403 | New Zealand Loyal | 324
+Hutt South | DONOGHUE, Lee | 1228 | New Zealand First Party | 2257
+Hutt South | JENNINGS, Neelu | 2492 | Green Party | 6727
+Hutt South | PARKINS, Andy | 556 | ACT New Zealand | 2493
+Hutt South | RANGITUTIA, Max | 171 |  | 
+Hutt South | WYLIE-VAN EERD, Ben | 980 | The Opportunities Party (TOP) | 1448
+Hutt South |  |  | Animal Justice Party | 77
+Hutt South |  |  | Aotearoa Legalise Cannabis Party | 147
+Hutt South |  |  | DemocracyNZ | 53
+Hutt South |  |  | Freedoms NZ | 99
+Hutt South |  |  | Leighton Baker Party | 21
+Hutt South |  |  | New Conservatives | 50
+Hutt South |  |  | New Nation Party | 2
+Hutt South |  |  | NewZeal | 215
+Hutt South |  |  | Te Pāti Māori | 581
+Hutt South |  |  | Women’s Rights Party | 32

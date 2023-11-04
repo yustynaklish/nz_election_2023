@@ -1,0 +1,20 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Rongotai | EMET, Atom | 216 | Animal Justice Party | 85
+Rongotai | FITZSIMONS, Fleur | 13869 | Labour Party | 13361
+Rongotai | GENTER, Julie Anne | 16586 | Green Party | 13664
+Rongotai | McDONALD, Don S | 130 |  | 
+Rongotai | McKEE, Nicole | 1179 | ACT New Zealand | 1680
+Rongotai | MILLS, Geoff | 860 | New Zealand First Party | 1411
+Rongotai | MUTHU, Karunā | 8794 | National Party | 9088
+Rongotai | ROA, Merania | 96 |  | 
+Rongotai | WELSH, Bruce | 275 | New Conservatives | 35
+Rongotai |  |  | Aotearoa Legalise Cannabis Party | 153
+Rongotai |  |  | DemocracyNZ | 21
+Rongotai |  |  | Freedoms NZ | 61
+Rongotai |  |  | Leighton Baker Party | 6
+Rongotai |  |  | New Nation Party | 13
+Rongotai |  |  | New Zealand Loyal | 126
+Rongotai |  |  | NewZeal | 67
+Rongotai |  |  | Te Pāti Māori | 1006
+Rongotai |  |  | The Opportunities Party (TOP) | 1792
+Rongotai |  |  | Women’s Rights Party | 46

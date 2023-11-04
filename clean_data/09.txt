@@ -1,0 +1,22 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+East Coast | CARACAS, Monaco | 68 |  | 
+East Coast | COFFEY, Tamati | 13597 | Labour Party | 11905
+East Coast | DICKSON, Gordon John | 63 |  | 
+East Coast | FLAVELL, Fallyn | 1226 | Te Pāti Māori | 909
+East Coast | HOWE, Michael | 1892 | ACT New Zealand | 3540
+East Coast | KIRKPATRICK, Dana | 16714 | National Party | 14649
+East Coast | PACKER, Leighton | 315 |  | 
+East Coast | RICHARDS, Don | 103 |  | 
+East Coast | ROBINSON, Chris | 615 | DemocracyNZ | 196
+East Coast | SINCLAIR, Craig | 2482 | New Zealand First Party | 3842
+East Coast | WALKER, Jordan | 1751 | Green Party | 2961
+East Coast |  |  | Animal Justice Party | 43
+East Coast |  |  | Aotearoa Legalise Cannabis Party | 162
+East Coast |  |  | Freedoms NZ | 172
+East Coast |  |  | Leighton Baker Party | 28
+East Coast |  |  | New Conservatives | 55
+East Coast |  |  | New Nation Party | 20
+East Coast |  |  | New Zealand Loyal | 538
+East Coast |  |  | NewZeal | 240
+East Coast |  |  | The Opportunities Party (TOP) | 454
+East Coast |  |  | Women’s Rights Party | 23

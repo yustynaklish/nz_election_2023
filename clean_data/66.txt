@@ -1,0 +1,19 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Hauraki-Waikato | MAHUTA, Nanaia | 10028 | Labour Party | 11508
+Hauraki-Waikato | MAIPI-CLARKE, Hana-Rawhiti | 12939 | Te Pāti Māori | 8503
+Hauraki-Waikato | POKERE-PHILLIPS, Donna | 1220 |  | 
+Hauraki-Waikato |  |  | ACT New Zealand | 294
+Hauraki-Waikato |  |  | Animal Justice Party | 14
+Hauraki-Waikato |  |  | Aotearoa Legalise Cannabis Party | 254
+Hauraki-Waikato |  |  | DemocracyNZ | 23
+Hauraki-Waikato |  |  | Freedoms NZ | 323
+Hauraki-Waikato |  |  | Green Party | 1893
+Hauraki-Waikato |  |  | Leighton Baker Party | 11
+Hauraki-Waikato |  |  | National Party | 1292
+Hauraki-Waikato |  |  | New Conservatives | 15
+Hauraki-Waikato |  |  | New Nation Party | 8
+Hauraki-Waikato |  |  | New Zealand First Party | 974
+Hauraki-Waikato |  |  | New Zealand Loyal | 310
+Hauraki-Waikato |  |  | NewZeal | 128
+Hauraki-Waikato |  |  | The Opportunities Party (TOP) | 186
+Hauraki-Waikato |  |  | Women’s Rights Party | 19

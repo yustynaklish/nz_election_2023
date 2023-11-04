@@ -1,0 +1,21 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Wigram | ANDERSON, Blair | 696 | Aotearoa Legalise Cannabis Party | 201
+Wigram | CULLIMORE, Debra Marie | 284 | Leighton Baker Party | 66
+Wigram | HANSEN, Tubby | 74 |  | 
+Wigram | LYNN, Ankita | 1520 | ACT New Zealand | 2465
+Wigram | McTAGUE, Geoff | 118 |  | 
+Wigram | SUMMERFIELD, Tracy | 14403 | National Party | 13401
+Wigram | THOMSON, Wiremu | 125 |  | 
+Wigram | VAN DUIVENBODEN, Christine | 392 | New Zealand Loyal | 253
+Wigram | WESLEY, Richard | 3780 | Green Party | 5634
+Wigram | WOODS, Megan | 15590 | Labour Party | 11249
+Wigram |  |  | Animal Justice Party | 95
+Wigram |  |  | DemocracyNZ | 65
+Wigram |  |  | Freedoms NZ | 59
+Wigram |  |  | New Conservatives | 104
+Wigram |  |  | New Nation Party | 29
+Wigram |  |  | New Zealand First Party | 1922
+Wigram |  |  | NewZeal | 189
+Wigram |  |  | Te Pāti Māori | 316
+Wigram |  |  | The Opportunities Party (TOP) | 1783
+Wigram |  |  | Women’s Rights Party | 37

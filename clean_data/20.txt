@@ -1,0 +1,20 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Mana | BHARGAVA, Kush | 188 |  | 
+Mana | BROWN, Lily | 1195 | ACT New Zealand | 2250
+Mana | DAO-MCLAY, Gina | 4200 | Green Party | 6297
+Mana | EDMONDS, Barbara | 20197 | Labour Party | 16016
+Mana | FOSTER, Andy | 1849 | New Zealand First Party | 2215
+Mana | GOODE, Richard | 105 |  | 
+Mana | HUGHES, Frances | 12825 | National Party | 12084
+Mana | TEMPERTON, Lisa | 586 | New Zealand Loyal | 300
+Mana |  |  | Animal Justice Party | 86
+Mana |  |  | Aotearoa Legalise Cannabis Party | 161
+Mana |  |  | DemocracyNZ | 52
+Mana |  |  | Freedoms NZ | 110
+Mana |  |  | Leighton Baker Party | 13
+Mana |  |  | New Conservatives | 46
+Mana |  |  | New Nation Party | 17
+Mana |  |  | NewZeal | 275
+Mana |  |  | Te Pāti Māori | 792
+Mana |  |  | The Opportunities Party (TOP) | 1158
+Mana |  |  | Women’s Rights Party | 46

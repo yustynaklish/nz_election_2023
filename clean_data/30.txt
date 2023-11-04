@@ -1,0 +1,18 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+North Shore | BASKETT, Pat | 3663 | Green Party | 4851
+North Shore | GRAY, Abe | 1229 | The Opportunities Party (TOP) | 1055
+North Shore | HAMPTON, George | 8562 | Labour Party | 7318
+North Shore | WATTS, Simon | 24892 | National Party | 21050
+North Shore | YALLOP, Anna | 2061 | ACT New Zealand | 4540
+North Shore |  |  | Animal Justice Party | 48
+North Shore |  |  | Aotearoa Legalise Cannabis Party | 111
+North Shore |  |  | DemocracyNZ | 35
+North Shore |  |  | Freedoms NZ | 53
+North Shore |  |  | Leighton Baker Party | 7
+North Shore |  |  | New Conservatives | 53
+North Shore |  |  | New Nation Party | 24
+North Shore |  |  | New Zealand First Party | 1604
+North Shore |  |  | New Zealand Loyal | 209
+North Shore |  |  | NewZeal | 133
+North Shore |  |  | Te Pāti Māori | 207
+North Shore |  |  | Women’s Rights Party | 42

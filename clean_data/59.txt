@@ -1,0 +1,19 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Waitaki | ANDERSON, Miles | 22675 | National Party | 19281
+Waitaki | BAILEY, Ray | 1125 | New Zealand Loyal | 902
+Waitaki | BEAMISH, Sean | 2477 | ACT New Zealand | 5473
+Waitaki | HANSEN, Pleasance | 3495 | Green Party | 4014
+Waitaki | ODERING, Anthony | 1823 | New Zealand First Party | 3103
+Waitaki | REILLE, Ethan | 10524 | Labour Party | 9575
+Waitaki | SHAND, Daniel | 584 |  | 
+Waitaki | SMALL, Roger | 1078 | DemocracyNZ | 281
+Waitaki |  |  | Animal Justice Party | 64
+Waitaki |  |  | Aotearoa Legalise Cannabis Party | 158
+Waitaki |  |  | Freedoms NZ | 61
+Waitaki |  |  | Leighton Baker Party | 33
+Waitaki |  |  | New Conservatives | 72
+Waitaki |  |  | New Nation Party | 10
+Waitaki |  |  | NewZeal | 281
+Waitaki |  |  | Te Pāti Māori | 182
+Waitaki |  |  | The Opportunities Party (TOP) | 873
+Waitaki |  |  | Women’s Rights Party | 30

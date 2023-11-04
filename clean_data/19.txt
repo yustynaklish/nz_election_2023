@@ -1,0 +1,18 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Kelston | CURRAN, Jacob | 1774 | ACT New Zealand | 1990
+Kelston | DEGIA-PALA, Anne | 1142 | New Zealand First Party | 1580
+Kelston | GHAHRAMAN, Golriz | 3777 | Green Party | 4709
+Kelston | HAREMA, Jacqui | 679 | Te Pāti Māori | 591
+Kelston | HOOD, Alister | 219 | New Conservatives | 70
+Kelston | SCHAUMKEL, Ruby | 10017 | National Party | 10442
+Kelston | SEPULONI, Carmel | 14413 | Labour Party | 12460
+Kelston | TILDSLEY, Leao | 416 | DemocracyNZ | 97
+Kelston |  |  | Animal Justice Party | 56
+Kelston |  |  | Aotearoa Legalise Cannabis Party | 125
+Kelston |  |  | Freedoms NZ | 93
+Kelston |  |  | Leighton Baker Party | 12
+Kelston |  |  | New Nation Party | 12
+Kelston |  |  | New Zealand Loyal | 238
+Kelston |  |  | NewZeal | 267
+Kelston |  |  | The Opportunities Party (TOP) | 650
+Kelston |  |  | Women’s Rights Party | 30

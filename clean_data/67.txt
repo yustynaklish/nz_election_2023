@@ -1,0 +1,19 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Ikaroa-Rāwhiti | TANGAERE-MANUEL, Cushla | 13678 | Labour Party | 14703
+Ikaroa-Rāwhiti | TUHAKARAINA, Ata | 784 |  | 
+Ikaroa-Rāwhiti | WHAITIRI, Meka | 10835 | Te Pāti Māori | 6700
+Ikaroa-Rāwhiti |  |  | ACT New Zealand | 207
+Ikaroa-Rāwhiti |  |  | Animal Justice Party | 27
+Ikaroa-Rāwhiti |  |  | Aotearoa Legalise Cannabis Party | 276
+Ikaroa-Rāwhiti |  |  | DemocracyNZ | 26
+Ikaroa-Rāwhiti |  |  | Freedoms NZ | 167
+Ikaroa-Rāwhiti |  |  | Green Party | 1792
+Ikaroa-Rāwhiti |  |  | Leighton Baker Party | 9
+Ikaroa-Rāwhiti |  |  | National Party | 960
+Ikaroa-Rāwhiti |  |  | New Conservatives | 16
+Ikaroa-Rāwhiti |  |  | New Nation Party | 9
+Ikaroa-Rāwhiti |  |  | New Zealand First Party | 928
+Ikaroa-Rāwhiti |  |  | New Zealand Loyal | 258
+Ikaroa-Rāwhiti |  |  | NewZeal | 179
+Ikaroa-Rāwhiti |  |  | The Opportunities Party (TOP) | 139
+Ikaroa-Rāwhiti |  |  | Women’s Rights Party | 18

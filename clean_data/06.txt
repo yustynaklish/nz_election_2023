@@ -1,0 +1,19 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Christchurch East | AHMED, Sahra | 4594 | Green Party | 5675
+Christchurch East | DAVIDSON, Reuben | 15163 | Labour Party | 13418
+Christchurch East | HOUGHTON, Helen | 615 | New Conservatives | 175
+Christchurch East | LAMBERT, Paula | 901 | Aotearoa Legalise Cannabis Party | 223
+Christchurch East | PARK, Sam | 234 |  | 
+Christchurch East | SEVERIN, Toni | 1679 | ACT New Zealand | 2786
+Christchurch East | STOCK, Matt | 12766 | National Party | 11208
+Christchurch East | WERETA, Danette | 353 | Animal Justice Party | 114
+Christchurch East | WIREMU, Shane | 2030 | New Zealand First Party | 2676
+Christchurch East |  |  | DemocracyNZ | 106
+Christchurch East |  |  | Freedoms NZ | 114
+Christchurch East |  |  | Leighton Baker Party | 118
+Christchurch East |  |  | New Nation Party | 24
+Christchurch East |  |  | New Zealand Loyal | 402
+Christchurch East |  |  | NewZeal | 205
+Christchurch East |  |  | Te Pāti Māori | 415
+Christchurch East |  |  | The Opportunities Party (TOP) | 1339
+Christchurch East |  |  | Women’s Rights Party | 46

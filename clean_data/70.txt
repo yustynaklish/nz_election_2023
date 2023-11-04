@@ -1,0 +1,19 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Te Tai Tokerau | DAVIS, Kelvin | 9911 | Labour Party | 12653
+Te Tai Tokerau | HERBERT, Maki | 1923 | Aotearoa Legalise Cannabis Party | 468
+Te Tai Tokerau | KAPA-KINGI, Mariameno | 10428 | Te Pāti Māori | 7690
+Te Tai Tokerau | LYNDON, Hūhana | 4187 | Green Party | 2731
+Te Tai Tokerau | TOAUTU, Paturiri | 443 |  | 
+Te Tai Tokerau |  |  | ACT New Zealand | 307
+Te Tai Tokerau |  |  | Animal Justice Party | 28
+Te Tai Tokerau |  |  | DemocracyNZ | 72
+Te Tai Tokerau |  |  | Freedoms NZ | 245
+Te Tai Tokerau |  |  | Leighton Baker Party | 12
+Te Tai Tokerau |  |  | National Party | 1545
+Te Tai Tokerau |  |  | New Conservatives | 10
+Te Tai Tokerau |  |  | New Nation Party | 6
+Te Tai Tokerau |  |  | New Zealand First Party | 1917
+Te Tai Tokerau |  |  | New Zealand Loyal | 401
+Te Tai Tokerau |  |  | NewZeal | 161
+Te Tai Tokerau |  |  | The Opportunities Party (TOP) | 211
+Te Tai Tokerau |  |  | Women’s Rights Party | 16

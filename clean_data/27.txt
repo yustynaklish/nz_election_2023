@@ -1,0 +1,19 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Nelson | BAILLIE, Chris | 2693 | ACT New Zealand | 4428
+Nelson | BOYACK, Rachel Elizabeth | 17533 | Labour Party | 12520
+Nelson | CAMERON, Blair | 17504 | National Party | 13856
+Nelson | DYER, Bruce | 167 |  | 
+Nelson | HOBBS, Jace | 2786 | Green Party | 6154
+Nelson | VAUGHAN, Peter | 1314 | New Zealand Loyal | 642
+Nelson |  |  | Animal Justice Party | 75
+Nelson |  |  | Aotearoa Legalise Cannabis Party | 187
+Nelson |  |  | DemocracyNZ | 100
+Nelson |  |  | Freedoms NZ | 263
+Nelson |  |  | Leighton Baker Party | 31
+Nelson |  |  | New Conservatives | 82
+Nelson |  |  | New Nation Party | 15
+Nelson |  |  | New Zealand First Party | 2612
+Nelson |  |  | NewZeal | 290
+Nelson |  |  | Te Pāti Māori | 343
+Nelson |  |  | The Opportunities Party (TOP) | 1058
+Nelson |  |  | Women’s Rights Party | 50

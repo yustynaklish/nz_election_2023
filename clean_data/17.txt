@@ -1,0 +1,21 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Kaikōura | ARBUCKLE, Jamie Arthur | 4347 | New Zealand First Party | 3819
+Kaikōura | BROWN, Shaun | 43 |  | 
+Kaikōura | CAMPBELL, Sandra | 509 | DemocracyNZ | 269
+Kaikōura | COLELLO, Natalie | 921 | New Zealand Loyal | 850
+Kaikōura | DEWHIRST, Emma | 9329 | Labour Party | 8714
+Kaikōura | GREENSLADE, David | 237 | New Conservatives | 111
+Kaikōura | GRIFFITHS, Keith | 2624 | ACT New Zealand | 5911
+Kaikōura | HOWARD, Ted | 109 |  | 
+Kaikōura | McCASKEY, John | 139 |  | 
+Kaikōura | McCUBBIN, Richard | 2512 | Green Party | 3282
+Kaikōura | SMITH, Stuart | 20741 | National Party | 17281
+Kaikōura |  |  | Animal Justice Party | 73
+Kaikōura |  |  | Aotearoa Legalise Cannabis Party | 176
+Kaikōura |  |  | Freedoms NZ | 97
+Kaikōura |  |  | Leighton Baker Party | 98
+Kaikōura |  |  | New Nation Party | 43
+Kaikōura |  |  | NewZeal | 261
+Kaikōura |  |  | Te Pāti Māori | 215
+Kaikōura |  |  | The Opportunities Party (TOP) | 703
+Kaikōura |  |  | Women’s Rights Party | 36

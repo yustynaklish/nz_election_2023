@@ -1,0 +1,18 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+East Coast Bays | ADAMS, Paul | 890 | NewZeal | 409
+East Coast Bays | CHEN, Naisi | 7334 | Labour Party | 5716
+East Coast Bays | DYET, Bill | 710 | New Zealand Loyal | 386
+East Coast Bays | McCOOK, Michael | 1584 | ACT New Zealand | 3774
+East Coast Bays | STANFORD, Erica | 27687 | National Party | 22508
+East Coast Bays |  |  | Animal Justice Party | 62
+East Coast Bays |  |  | Aotearoa Legalise Cannabis Party | 105
+East Coast Bays |  |  | DemocracyNZ | 34
+East Coast Bays |  |  | Freedoms NZ | 51
+East Coast Bays |  |  | Green Party | 3462
+East Coast Bays |  |  | Leighton Baker Party | 7
+East Coast Bays |  |  | New Conservatives | 58
+East Coast Bays |  |  | New Nation Party | 24
+East Coast Bays |  |  | New Zealand First Party | 1532
+East Coast Bays |  |  | Te Pāti Māori | 137
+East Coast Bays |  |  | The Opportunities Party (TOP) | 646
+East Coast Bays |  |  | Women’s Rights Party | 32

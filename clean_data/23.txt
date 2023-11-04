@@ -1,0 +1,20 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Maungakiekie | BRIDGE, Phillip | 249 |  | 
+Maungakiekie | CHUAH, Eric | 136 |  | 
+Maungakiekie | FLEMING, Greg | 16952 | National Party | 14935
+Maungakiekie | HOGG, Andrew | 920 | New Zealand First Party | 1379
+Maungakiekie | ONISHCHENKO, Margo | 1291 | ACT New Zealand | 2863
+Maungakiekie | RADHAKRISHNAN, Priyanca | 12335 | Labour Party | 9801
+Maungakiekie | SAMANT, Sapna | 3138 | Green Party | 4964
+Maungakiekie |  |  | Animal Justice Party | 51
+Maungakiekie |  |  | Aotearoa Legalise Cannabis Party | 111
+Maungakiekie |  |  | DemocracyNZ | 25
+Maungakiekie |  |  | Freedoms NZ | 89
+Maungakiekie |  |  | Leighton Baker Party | 5
+Maungakiekie |  |  | New Conservatives | 45
+Maungakiekie |  |  | New Nation Party | 7
+Maungakiekie |  |  | New Zealand Loyal | 157
+Maungakiekie |  |  | NewZeal | 142
+Maungakiekie |  |  | Te Pāti Māori | 336
+Maungakiekie |  |  | The Opportunities Party (TOP) | 952
+Maungakiekie |  |  | Women’s Rights Party | 30

@@ -1,0 +1,20 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Panmure-Ōtāhuhu | COLLINS, Fa&#39;anānā Efeso | 4312 | Green Party | 2601
+Panmure-Ōtāhuhu | MODKOVA, Antonia | 1238 | ACT New Zealand | 1100
+Panmure-Ōtāhuhu | MOKARAKA, Karl | 387 |  | 
+Panmure-Ōtāhuhu | RANDHAWA, Navtej | 7388 | National Party | 8074
+Panmure-Ōtāhuhu | ROBB, James | 235 |  | 
+Panmure-Ōtāhuhu | SALESA, Jenny | 15358 | Labour Party | 16024
+Panmure-Ōtāhuhu |  |  | Animal Justice Party | 50
+Panmure-Ōtāhuhu |  |  | Aotearoa Legalise Cannabis Party | 133
+Panmure-Ōtāhuhu |  |  | DemocracyNZ | 20
+Panmure-Ōtāhuhu |  |  | Freedoms NZ | 222
+Panmure-Ōtāhuhu |  |  | Leighton Baker Party | 7
+Panmure-Ōtāhuhu |  |  | New Conservatives | 37
+Panmure-Ōtāhuhu |  |  | New Nation Party | 13
+Panmure-Ōtāhuhu |  |  | New Zealand First Party | 1001
+Panmure-Ōtāhuhu |  |  | New Zealand Loyal | 124
+Panmure-Ōtāhuhu |  |  | NewZeal | 187
+Panmure-Ōtāhuhu |  |  | Te Pāti Māori | 410
+Panmure-Ōtāhuhu |  |  | The Opportunities Party (TOP) | 369
+Panmure-Ōtāhuhu |  |  | Women’s Rights Party | 33

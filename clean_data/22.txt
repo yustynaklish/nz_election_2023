@@ -1,0 +1,19 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Manurewa | KILARI, Siva | 9148 | National Party | 8808
+Manurewa | MCLEAN, Rangi | 1604 | Te Pāti Māori | 632
+Manurewa | WARREN, Caine | 991 |  | 
+Manurewa | WILLIAMS, Arena | 16261 | Labour Party | 15623
+Manurewa |  |  | ACT New Zealand | 806
+Manurewa |  |  | Animal Justice Party | 48
+Manurewa |  |  | Aotearoa Legalise Cannabis Party | 136
+Manurewa |  |  | DemocracyNZ | 18
+Manurewa |  |  | Freedoms NZ | 362
+Manurewa |  |  | Green Party | 1777
+Manurewa |  |  | Leighton Baker Party | 14
+Manurewa |  |  | New Conservatives | 56
+Manurewa |  |  | New Nation Party | 39
+Manurewa |  |  | New Zealand First Party | 1037
+Manurewa |  |  | New Zealand Loyal | 137
+Manurewa |  |  | NewZeal | 233
+Manurewa |  |  | The Opportunities Party (TOP) | 179
+Manurewa |  |  | Women’s Rights Party | 39

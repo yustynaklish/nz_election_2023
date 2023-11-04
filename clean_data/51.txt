@@ -1,0 +1,18 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Taupō | AL-BUSTANJI, Aladdin | 8353 | Labour Party | 9686
+Taupō | COZENS, Zane | 2808 | ACT New Zealand | 4960
+Taupō | O&#39;CONNOR PATENA, George | 3441 | Green Party | 2773
+Taupō | PEHI, Tira | 2114 | New Zealand First Party | 3508
+Taupō | UPSTON, Louise | 24858 | National Party | 19966
+Taupō | WILSON, Gordon | 1410 | New Zealand Loyal | 961
+Taupō |  |  | Animal Justice Party | 50
+Taupō |  |  | Aotearoa Legalise Cannabis Party | 178
+Taupō |  |  | DemocracyNZ | 75
+Taupō |  |  | Freedoms NZ | 134
+Taupō |  |  | Leighton Baker Party | 36
+Taupō |  |  | New Conservatives | 66
+Taupō |  |  | New Nation Party | 20
+Taupō |  |  | NewZeal | 208
+Taupō |  |  | Te Pāti Māori | 567
+Taupō |  |  | The Opportunities Party (TOP) | 644
+Taupō |  |  | Women’s Rights Party | 26

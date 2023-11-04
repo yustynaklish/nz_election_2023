@@ -1,0 +1,22 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Tukituki | DOUGLAS, Rob | 2016 | ACT New Zealand | 5117
+Tukituki | HULMAN, Rob | 1030 | New Zealand Loyal | 620
+Tukituki | LORCK, Anna | 11863 | Labour Party | 10518
+Tukituki | MANNING, Romana (Marnz) | 631 | Aotearoa Legalise Cannabis Party | 228
+Tukituki | NGAHUKA, Michael | 379 |  | 
+Tukituki | PETROWSKI, Melanie Lorraine | 181 |  | 
+Tukituki | PONK, Michael | 45 |  | 
+Tukituki | RATCLIFFE, Nick | 2383 | Green Party | 3284
+Tukituki | TOSH, Allister David | 66 |  | 
+Tukituki | WEDD, Catherine | 21981 | National Party | 17165
+Tukituki |  |  | Animal Justice Party | 68
+Tukituki |  |  | DemocracyNZ | 71
+Tukituki |  |  | Freedoms NZ | 123
+Tukituki |  |  | Leighton Baker Party | 35
+Tukituki |  |  | New Conservatives | 64
+Tukituki |  |  | New Nation Party | 14
+Tukituki |  |  | New Zealand First Party | 2550
+Tukituki |  |  | NewZeal | 432
+Tukituki |  |  | Te Pāti Māori | 410
+Tukituki |  |  | The Opportunities Party (TOP) | 587
+Tukituki |  |  | Women’s Rights Party | 39

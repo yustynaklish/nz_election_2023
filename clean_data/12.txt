@@ -1,0 +1,20 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Hamilton East | BAN, Tanya | 517 | New Zealand Loyal | 341
+Hamilton East | CARRINGTON, Lily | 321 | Animal Justice Party | 69
+Hamilton East | CORKIN, Alex | 1195 | The Opportunities Party (TOP) | 1040
+Hamilton East | COUPER, Nathan Lee | 27 |  | 
+Hamilton East | DANSEY, Georgie | 12890 | Labour Party | 9497
+Hamilton East | GIELEN, Jacobus | 40 |  | 
+Hamilton East | HAMILTON, Ryan | 17950 | National Party | 16373
+Hamilton East | KNAAP, Russelle | 1206 | New Zealand First Party | 1914
+Hamilton East | PARKER, Awatea | 1227 | Te Pāti Māori | 565
+Hamilton East | PARMAR, Himanshu | 1679 | ACT New Zealand | 3085
+Hamilton East |  |  | Aotearoa Legalise Cannabis Party | 110
+Hamilton East |  |  | DemocracyNZ | 39
+Hamilton East |  |  | Freedoms NZ | 80
+Hamilton East |  |  | Green Party | 4718
+Hamilton East |  |  | Leighton Baker Party | 25
+Hamilton East |  |  | New Conservatives | 91
+Hamilton East |  |  | New Nation Party | 19
+Hamilton East |  |  | NewZeal | 204
+Hamilton East |  |  | Women’s Rights Party | 40

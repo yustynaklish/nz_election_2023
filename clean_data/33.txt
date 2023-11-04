@@ -1,0 +1,20 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Ōhāriu | DAY, Paul | 759 | ACT New Zealand | 2524
+Ōhāriu | HAMMOND, Jessica | 2975 | The Opportunities Party (TOP) | 1882
+Ōhāriu | JENKINS, Martin | 124 |  | 
+Ōhāriu | LIM, Patrick | 214 |  | 
+Ōhāriu | O&#39;CONNOR, Greg | 17565 | Labour Party | 12457
+Ōhāriu | RODGERS, Stephanie | 4412 | Green Party | 8623
+Ōhāriu | WILLIS, Nicola | 16305 | National Party | 14841
+Ōhāriu |  |  | Animal Justice Party | 62
+Ōhāriu |  |  | Aotearoa Legalise Cannabis Party | 114
+Ōhāriu |  |  | DemocracyNZ | 25
+Ōhāriu |  |  | Freedoms NZ | 58
+Ōhāriu |  |  | Leighton Baker Party | 12
+Ōhāriu |  |  | New Conservatives | 65
+Ōhāriu |  |  | New Nation Party | 11
+Ōhāriu |  |  | New Zealand First Party | 1442
+Ōhāriu |  |  | New Zealand Loyal | 112
+Ōhāriu |  |  | NewZeal | 119
+Ōhāriu |  |  | Te Pāti Māori | 519
+Ōhāriu |  |  | Women’s Rights Party | 31

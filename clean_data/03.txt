@@ -1,0 +1,19 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Bay of Plenty | GILLESPIE, Wendy | 524 | Leighton Baker Party | 58
+Bay of Plenty | GRATTAN, Caitlin | 375 | Animal Justice Party | 88
+Bay of Plenty | LUXTON, Cameron | 4202 | ACT New Zealand | 5212
+Bay of Plenty | MACMILLAN, Matthew | 4036 | Green Party | 3635
+Bay of Plenty | MURFITT, Kirsten | 4025 | New Zealand First Party | 3957
+Bay of Plenty | RUTHERFORD, Tom | 23303 | National Party | 21452
+Bay of Plenty | TAIKATO, Pare | 7898 | Labour Party | 7905
+Bay of Plenty | WAHED, Taupo | 204 |  | 
+Bay of Plenty |  |  | Aotearoa Legalise Cannabis Party | 193
+Bay of Plenty |  |  | DemocracyNZ | 79
+Bay of Plenty |  |  | Freedoms NZ | 140
+Bay of Plenty |  |  | New Conservatives | 56
+Bay of Plenty |  |  | New Nation Party | 24
+Bay of Plenty |  |  | New Zealand Loyal | 714
+Bay of Plenty |  |  | NewZeal | 444
+Bay of Plenty |  |  | Te Pāti Māori | 577
+Bay of Plenty |  |  | The Opportunities Party (TOP) | 894
+Bay of Plenty |  |  | Women’s Rights Party | 24

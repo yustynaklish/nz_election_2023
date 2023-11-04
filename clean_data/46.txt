@@ -1,0 +1,19 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Southland | EVANS, Logan | 2172 | New Zealand Loyal | 974
+Southland | GRUMBALL, Anntwinette | 687 | Aotearoa Legalise Cannabis Party | 217
+Southland | KENNEDY, Dave | 3860 | Green Party | 3482
+Southland | McCALLUM, Simon | 6020 | Labour Party | 6546
+Southland | MACLEAN, Naomi | 228 |  | 
+Southland | MOONEY, Joseph | 23231 | National Party | 19222
+Southland | STEPHENSON, Todd | 2807 | ACT New Zealand | 5412
+Southland |  |  | Animal Justice Party | 65
+Southland |  |  | DemocracyNZ | 60
+Southland |  |  | Freedoms NZ | 91
+Southland |  |  | Leighton Baker Party | 20
+Southland |  |  | New Conservatives | 32
+Southland |  |  | New Nation Party | 35
+Southland |  |  | New Zealand First Party | 2258
+Southland |  |  | NewZeal | 246
+Southland |  |  | Te Pāti Māori | 190
+Southland |  |  | The Opportunities Party (TOP) | 810
+Southland |  |  | Women’s Rights Party | 28

@@ -1,0 +1,19 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Whangārei | ANDREWS, Janita | 1006 | New Zealand Loyal | 905
+Whangārei | BAZELEY, Rick | 2680 | Green Party | 4075
+Whangārei | BENNEY, Gavin | 5371 | New Zealand First Party | 5673
+Whangārei | BRETHERTON, Susy | 1222 | ACT New Zealand | 3954
+Whangārei | BURGESS, Diana | 578 | DemocracyNZ | 352
+Whangārei | de JONGE, Jeni | 612 | Aotearoa Legalise Cannabis Party | 249
+Whangārei | GREEN, Fiona | 140 |  | 
+Whangārei | KAPA-KINGI, Eru | 859 | Te Pāti Māori | 591
+Whangārei | RETI, Shane | 20843 | National Party | 16441
+Whangārei | WARREN-CLARK, Angie | 9419 | Labour Party | 9698
+Whangārei |  |  | Animal Justice Party | 77
+Whangārei |  |  | Freedoms NZ | 110
+Whangārei |  |  | Leighton Baker Party | 32
+Whangārei |  |  | New Conservatives | 55
+Whangārei |  |  | New Nation Party | 35
+Whangārei |  |  | NewZeal | 336
+Whangārei |  |  | The Opportunities Party (TOP) | 730
+Whangārei |  |  | Women’s Rights Party | 35

@@ -1,0 +1,18 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Kaipara ki Mahurangi | BAILEY, Brent | 2970 | ACT New Zealand | 6011
+Kaipara ki Mahurangi | BREWER, Sarah | 1292 | DemocracyNZ | 300
+Kaipara ki Mahurangi | BROWN, Zephyr | 4739 | Green Party | 4767
+Kaipara ki Mahurangi | MARCROFT, Jenny | 2531 | New Zealand First Party | 3311
+Kaipara ki Mahurangi | PENK, Chris | 28281 | National Party | 23725
+Kaipara ki Mahurangi | WISHART, Guy | 8822 | Labour Party | 8450
+Kaipara ki Mahurangi |  |  | Animal Justice Party | 113
+Kaipara ki Mahurangi |  |  | Aotearoa Legalise Cannabis Party | 186
+Kaipara ki Mahurangi |  |  | Freedoms NZ | 126
+Kaipara ki Mahurangi |  |  | Leighton Baker Party | 24
+Kaipara ki Mahurangi |  |  | New Conservatives | 75
+Kaipara ki Mahurangi |  |  | New Nation Party | 31
+Kaipara ki Mahurangi |  |  | New Zealand Loyal | 874
+Kaipara ki Mahurangi |  |  | NewZeal | 365
+Kaipara ki Mahurangi |  |  | Te Pāti Māori | 338
+Kaipara ki Mahurangi |  |  | The Opportunities Party (TOP) | 914
+Kaipara ki Mahurangi |  |  | Women’s Rights Party | 44

@@ -1,0 +1,18 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Christchurch Central | ARNEIL, Mark | 1563 | New Zealand First Party | 2073
+Christchurch Central | BRITNELL, Michael | 680 | Aotearoa Legalise Cannabis Party | 174
+Christchurch Central | CARTER, Kahurangi | 5441 | Green Party | 7746
+Christchurch Central | FISKEN, Matthew Hunter | 1395 | ACT New Zealand | 2646
+Christchurch Central | JACKSON, Sarah | 376 | Animal Justice Party | 106
+Christchurch Central | STEPHENS, Dale Aotea | 13641 | National Party | 12403
+Christchurch Central | WEBB, Duncan | 15622 | Labour Party | 11357
+Christchurch Central |  |  | DemocracyNZ | 82
+Christchurch Central |  |  | Freedoms NZ | 71
+Christchurch Central |  |  | Leighton Baker Party | 51
+Christchurch Central |  |  | New Conservatives | 78
+Christchurch Central |  |  | New Nation Party | 36
+Christchurch Central |  |  | New Zealand Loyal | 253
+Christchurch Central |  |  | NewZeal | 108
+Christchurch Central |  |  | Te Pāti Māori | 405
+Christchurch Central |  |  | The Opportunities Party (TOP) | 2042
+Christchurch Central |  |  | Women’s Rights Party | 59

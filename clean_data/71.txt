@@ -1,0 +1,19 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Te Tai Tonga | FERRIS, Tākuta | 12828 | Te Pāti Māori | 6447
+Te Tai Tonga | FUIMAONO PUHI, Geoffrey Karena | 816 |  | 
+Te Tai Tonga | ROBIN, Rebecca | 2852 | Aotearoa Legalise Cannabis Party | 479
+Te Tai Tonga | TIRIKATENE, Rino | 10004 | Labour Party | 10396
+Te Tai Tonga |  |  | ACT New Zealand | 659
+Te Tai Tonga |  |  | Animal Justice Party | 50
+Te Tai Tonga |  |  | DemocracyNZ | 68
+Te Tai Tonga |  |  | Freedoms NZ | 156
+Te Tai Tonga |  |  | Green Party | 4605
+Te Tai Tonga |  |  | Leighton Baker Party | 50
+Te Tai Tonga |  |  | National Party | 2453
+Te Tai Tonga |  |  | New Conservatives | 11
+Te Tai Tonga |  |  | New Nation Party | 12
+Te Tai Tonga |  |  | New Zealand First Party | 1557
+Te Tai Tonga |  |  | New Zealand Loyal | 471
+Te Tai Tonga |  |  | NewZeal | 122
+Te Tai Tonga |  |  | The Opportunities Party (TOP) | 549
+Te Tai Tonga |  |  | Women’s Rights Party | 22

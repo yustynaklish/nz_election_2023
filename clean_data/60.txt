@@ -1,0 +1,22 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Wellington Central | ALBERT, Natalia | 1554 | The Opportunities Party (TOP) | 2536
+Wellington Central | APPLEBY, Michael George | 418 | Aotearoa Legalise Cannabis Party | 136
+Wellington Central | ARNEIL, Taylor | 493 | New Zealand First Party | 1029
+Wellington Central | BAINS, Pete | 36 |  | 
+Wellington Central | FRANKS, Don | 67 |  | 
+Wellington Central | GEIRINGER, Karl Thomas | 43 |  | 
+Wellington Central | GORDON, Christopher | 111 | Animal Justice Party | 61
+Wellington Central | LIM, Meg | 80 |  | 
+Wellington Central | OMER, Ibrahim | 12373 | Labour Party | 11436
+Wellington Central | PAUL, Tamatha | 18439 | Green Party | 17332
+Wellington Central | SHEERAN, Scott | 11555 | National Party | 9855
+Wellington Central |  |  | ACT New Zealand | 2075
+Wellington Central |  |  | DemocracyNZ | 18
+Wellington Central |  |  | Freedoms NZ | 32
+Wellington Central |  |  | Leighton Baker Party | 11
+Wellington Central |  |  | New Conservatives | 31
+Wellington Central |  |  | New Nation Party | 14
+Wellington Central |  |  | New Zealand Loyal | 80
+Wellington Central |  |  | NewZeal | 57
+Wellington Central |  |  | Te Pāti Māori | 1106
+Wellington Central |  |  | Women’s Rights Party | 54

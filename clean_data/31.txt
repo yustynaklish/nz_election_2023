@@ -1,0 +1,19 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Northcote | BIDOIS, Dan | 20807 | National Party | 16975
+Northcote | DONALDSON, Mark | 186 |  | 
+Northcote | FOLEY, Leo George | 962 | ACT New Zealand | 3381
+Northcote | HALBERT, Shanan | 11537 | Labour Party | 9014
+Northcote | SHAW, Andrew | 3341 | Green Party | 5548
+Northcote | WARREN, Michelle | 1048 | New Zealand First Party | 1641
+Northcote |  |  | Animal Justice Party | 81
+Northcote |  |  | Aotearoa Legalise Cannabis Party | 118
+Northcote |  |  | DemocracyNZ | 38
+Northcote |  |  | Freedoms NZ | 103
+Northcote |  |  | Leighton Baker Party | 8
+Northcote |  |  | New Conservatives | 54
+Northcote |  |  | New Nation Party | 14
+Northcote |  |  | New Zealand Loyal | 216
+Northcote |  |  | NewZeal | 139
+Northcote |  |  | Te Pāti Māori | 295
+Northcote |  |  | The Opportunities Party (TOP) | 1208
+Northcote |  |  | Women’s Rights Party | 38

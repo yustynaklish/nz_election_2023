@@ -1,0 +1,19 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Coromandel | ANSELL, Caleb | 3145 | New Zealand First Party | 4895
+Coromandel | COBB, Ray | 2315 | New Zealand Loyal | 1580
+Coromandel | GREALEY, Pamela | 4942 | Green Party | 3672
+Coromandel | RILEY, Beryl | 7900 | Labour Party | 9223
+Coromandel | SIMPSON, Scott | 24914 | National Party | 20206
+Coromandel | TEPOU, Sarai | 273 |  | 
+Coromandel | VERBURG, Joanna | 2725 | ACT New Zealand | 5588
+Coromandel |  |  | Animal Justice Party | 51
+Coromandel |  |  | Aotearoa Legalise Cannabis Party | 185
+Coromandel |  |  | DemocracyNZ | 99
+Coromandel |  |  | Freedoms NZ | 126
+Coromandel |  |  | Leighton Baker Party | 32
+Coromandel |  |  | New Conservatives | 43
+Coromandel |  |  | New Nation Party | 19
+Coromandel |  |  | NewZeal | 270
+Coromandel |  |  | Te Pāti Māori | 362
+Coromandel |  |  | The Opportunities Party (TOP) | 509
+Coromandel |  |  | Women’s Rights Party | 32

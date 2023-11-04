@@ -1,0 +1,18 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Takanini | AH CHEE, Rae | 2037 | ACT New Zealand | 2202
+Takanini | LEAVASA, Anae Neru | 13161 | Labour Party | 11181
+Takanini | NAKHLE, Rima | 21936 | National Party | 21056
+Takanini | TULLOCH, Lynley Kim | 736 | Animal Justice Party | 82
+Takanini |  |  | Aotearoa Legalise Cannabis Party | 108
+Takanini |  |  | DemocracyNZ | 32
+Takanini |  |  | Freedoms NZ | 208
+Takanini |  |  | Green Party | 2277
+Takanini |  |  | Leighton Baker Party | 16
+Takanini |  |  | New Conservatives | 68
+Takanini |  |  | New Nation Party | 14
+Takanini |  |  | New Zealand First Party | 1267
+Takanini |  |  | New Zealand Loyal | 135
+Takanini |  |  | NewZeal | 299
+Takanini |  |  | Te Pāti Māori | 440
+Takanini |  |  | The Opportunities Party (TOP) | 333
+Takanini |  |  | Women’s Rights Party | 25

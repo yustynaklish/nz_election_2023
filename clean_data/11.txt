@@ -1,0 +1,18 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Epsom | BELICH, Camilla | 6189 | Labour Party | 5945
+Epsom | GOLDSMITH, Paul | 9684 | National Party | 20948
+Epsom | ROTHERAY, Anna | 164 | New Zealand Loyal | 123
+Epsom | SEYMOUR, David Breen | 17826 | ACT New Zealand | 5041
+Epsom | SU, Nina | 1803 | The Opportunities Party (TOP) | 1307
+Epsom | UNKOVICH, Tanya Marie | 573 | New Zealand First Party | 1059
+Epsom | XU-NAN, Lawrence Xi | 3537 | Green Party | 5507
+Epsom |  |  | Animal Justice Party | 46
+Epsom |  |  | Aotearoa Legalise Cannabis Party | 66
+Epsom |  |  | DemocracyNZ | 16
+Epsom |  |  | Freedoms NZ | 34
+Epsom |  |  | Leighton Baker Party | 2
+Epsom |  |  | New Conservatives | 28
+Epsom |  |  | New Nation Party | 5
+Epsom |  |  | NewZeal | 76
+Epsom |  |  | Te Pāti Māori | 299
+Epsom |  |  | Women’s Rights Party | 26

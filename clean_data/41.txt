@@ -1,0 +1,18 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Rangitīkei | BUTT, Zulfiqar | 9160 | Labour Party | 8993
+Rangitīkei | HOGGARD, Andrew John | 5914 | ACT New Zealand | 5655
+Rangitīkei | LONG, Bernard | 3153 | Green Party | 3061
+Rangitīkei | REDMAYNE, Suze | 18945 | National Party | 17018
+Rangitīkei | VERMEULEN, Helma | 3167 | New Zealand First Party | 3768
+Rangitīkei |  |  | Animal Justice Party | 82
+Rangitīkei |  |  | Aotearoa Legalise Cannabis Party | 206
+Rangitīkei |  |  | DemocracyNZ | 142
+Rangitīkei |  |  | Freedoms NZ | 97
+Rangitīkei |  |  | Leighton Baker Party | 30
+Rangitīkei |  |  | New Conservatives | 73
+Rangitīkei |  |  | New Nation Party | 24
+Rangitīkei |  |  | New Zealand Loyal | 622
+Rangitīkei |  |  | NewZeal | 260
+Rangitīkei |  |  | Te Pāti Māori | 577
+Rangitīkei |  |  | The Opportunities Party (TOP) | 630
+Rangitīkei |  |  | Women’s Rights Party | 35

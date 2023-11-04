@@ -1,0 +1,19 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Waikato | DORNAN, Lois | 420 |  | 
+Waikato | HUSBAND, Stuart | 3587 | New Zealand First Party | 3319
+Waikato | OWEN, Megan | 1549 | The Opportunities Party (TOP) | 742
+Waikato | TOKO, Jamie | 9148 | Labour Party | 7612
+Waikato | VAN DE MOLEN, Tim | 27194 | National Party | 21749
+Waikato |  |  | ACT New Zealand | 5294
+Waikato |  |  | Animal Justice Party | 77
+Waikato |  |  | Aotearoa Legalise Cannabis Party | 190
+Waikato |  |  | DemocracyNZ | 86
+Waikato |  |  | Freedoms NZ | 142
+Waikato |  |  | Green Party | 2376
+Waikato |  |  | Leighton Baker Party | 28
+Waikato |  |  | New Conservatives | 102
+Waikato |  |  | New Nation Party | 19
+Waikato |  |  | New Zealand Loyal | 721
+Waikato |  |  | NewZeal | 238
+Waikato |  |  | Te Pāti Māori | 415
+Waikato |  |  | Women’s Rights Party | 36

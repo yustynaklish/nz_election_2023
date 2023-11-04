@@ -1,0 +1,20 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Taranaki-King Country | BURR, Bill | 3388 |  | 
+Taranaki-King Country | KURIGER, Barbara | 24760 | National Party | 19281
+Taranaki-King Country | RAISON, Daryl | 948 |  | 
+Taranaki-King Country | ROBERTS, Angela | 10405 | Labour Party | 7022
+Taranaki-King Country |  |  | ACT New Zealand | 5484
+Taranaki-King Country |  |  | Animal Justice Party | 66
+Taranaki-King Country |  |  | Aotearoa Legalise Cannabis Party | 165
+Taranaki-King Country |  |  | DemocracyNZ | 77
+Taranaki-King Country |  |  | Freedoms NZ | 137
+Taranaki-King Country |  |  | Green Party | 2828
+Taranaki-King Country |  |  | Leighton Baker Party | 43
+Taranaki-King Country |  |  | New Conservatives | 104
+Taranaki-King Country |  |  | New Nation Party | 31
+Taranaki-King Country |  |  | New Zealand First Party | 3398
+Taranaki-King Country |  |  | New Zealand Loyal | 800
+Taranaki-King Country |  |  | NewZeal | 229
+Taranaki-King Country |  |  | Te Pāti Māori | 494
+Taranaki-King Country |  |  | The Opportunities Party (TOP) | 645
+Taranaki-King Country |  |  | Women’s Rights Party | 32

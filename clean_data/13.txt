@@ -1,0 +1,19 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Hamilton West | DOYLE, Benjamin | 3230 | Green Party | 3863
+Hamilton West | DU PLOOY, Rudi | 323 |  | 
+Hamilton West | POCOCK, Naomi | 1048 | The Opportunities Party (TOP) | 967
+Hamilton West | POTAKA, Tama William | 17595 | National Party | 16026
+Hamilton West | STEVENSON, Susan | 2216 | ACT New Zealand | 3398
+Hamilton West | STONE, Kevin | 1737 | New Zealand First Party | 2410
+Hamilton West | WILLIAMSON, Myra | 11107 | Labour Party | 10242
+Hamilton West | WILSON, Melanie | 326 | Animal Justice Party | 94
+Hamilton West |  |  | Aotearoa Legalise Cannabis Party | 169
+Hamilton West |  |  | DemocracyNZ | 55
+Hamilton West |  |  | Freedoms NZ | 141
+Hamilton West |  |  | Leighton Baker Party | 17
+Hamilton West |  |  | New Conservatives | 97
+Hamilton West |  |  | New Nation Party | 24
+Hamilton West |  |  | New Zealand Loyal | 322
+Hamilton West |  |  | NewZeal | 163
+Hamilton West |  |  | Te Pāti Māori | 711
+Hamilton West |  |  | Women’s Rights Party | 37

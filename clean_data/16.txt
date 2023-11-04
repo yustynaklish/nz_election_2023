@@ -1,0 +1,19 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Invercargill | CRAIG, Liz | 10945 | Labour Party | 9589
+Invercargill | DONALDSON, Scott Ian | 1990 | ACT New Zealand | 3967
+Invercargill | KOWALEWSKI, David | 1760 | New Zealand Loyal | 1099
+Invercargill | O&#39;CONNELL, Kevin Patrick | 1072 | Aotearoa Legalise Cannabis Party | 235
+Invercargill | SIMMONDS, Penny | 20819 | National Party | 16027
+Invercargill | TERRILL, Judith | 307 |  | 
+Invercargill |  |  | Animal Justice Party | 68
+Invercargill |  |  | DemocracyNZ | 48
+Invercargill |  |  | Freedoms NZ | 137
+Invercargill |  |  | Green Party | 2332
+Invercargill |  |  | Leighton Baker Party | 32
+Invercargill |  |  | New Conservatives | 54
+Invercargill |  |  | New Nation Party | 29
+Invercargill |  |  | New Zealand First Party | 2778
+Invercargill |  |  | NewZeal | 212
+Invercargill |  |  | Te Pāti Māori | 278
+Invercargill |  |  | The Opportunities Party (TOP) | 482
+Invercargill |  |  | Women’s Rights Party | 38

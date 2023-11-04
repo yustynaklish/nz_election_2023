@@ -1,0 +1,18 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Botany | ARMSTRONG, John | 624 | New Zealand Loyal | 280
+Botany | BURNS, Bo | 1959 | ACT New Zealand | 2788
+Botany | DE BOER, Dieuwe | 300 | New Conservatives | 86
+Botany | LUXON, Christopher | 24769 | National Party | 22239
+Botany | McNEIL, Robert | 428 | Animal Justice Party | 98
+Botany | SINGH, Kharag | 8432 | Labour Party | 7708
+Botany |  |  | Aotearoa Legalise Cannabis Party | 106
+Botany |  |  | DemocracyNZ | 29
+Botany |  |  | Freedoms NZ | 127
+Botany |  |  | Green Party | 2212
+Botany |  |  | Leighton Baker Party | 12
+Botany |  |  | New Nation Party | 37
+Botany |  |  | New Zealand First Party | 1136
+Botany |  |  | NewZeal | 156
+Botany |  |  | Te Pāti Māori | 188
+Botany |  |  | The Opportunities Party (TOP) | 439
+Botany |  |  | Women’s Rights Party | 27

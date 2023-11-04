@@ -1,0 +1,19 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Northland | CAMERON, Mark | 2135 | ACT New Zealand | 4729
+Northland | FEYEN, Michael | 1331 | New Zealand Loyal | 1529
+Northland | FINLAYSON, Mike | 369 |  | 
+Northland | JONES, Shane Geoffrey | 8143 | New Zealand First Party | 6523
+Northland | KING, Matt | 3812 | DemocracyNZ | 784
+Northland | LYE, Jeffrey | 677 | Aotearoa Legalise Cannabis Party | 307
+Northland | McCALLUM, Grant | 16272 | National Party | 16418
+Northland | PENNEY, Reina Tuai | 2424 | Green Party | 3705
+Northland | PRIME, Willow-Jean | 10185 | Labour Party | 10211
+Northland |  |  | Animal Justice Party | 114
+Northland |  |  | Freedoms NZ | 208
+Northland |  |  | Leighton Baker Party | 57
+Northland |  |  | New Conservatives | 64
+Northland |  |  | New Nation Party | 64
+Northland |  |  | NewZeal | 280
+Northland |  |  | Te Pāti Māori | 716
+Northland |  |  | The Opportunities Party (TOP) | 577
+Northland |  |  | Women’s Rights Party | 41

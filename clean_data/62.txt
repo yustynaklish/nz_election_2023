@@ -1,0 +1,18 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Whanganui | ARNOLD, William | 3234 | New Zealand First Party | 4494
+Whanganui | BATES, Carl | 18389 | National Party | 14567
+Whanganui | DREDGE, Craig | 1683 | ACT New Zealand | 3749
+Whanganui | KYLE, Sandra | 402 | Animal Justice Party | 99
+Whanganui | LEWIS, Steph | 12972 | Labour Party | 11002
+Whanganui | SANSON, Marion | 2049 | Green Party | 2980
+Whanganui |  |  | Aotearoa Legalise Cannabis Party | 214
+Whanganui |  |  | DemocracyNZ | 77
+Whanganui |  |  | Freedoms NZ | 88
+Whanganui |  |  | Leighton Baker Party | 20
+Whanganui |  |  | New Conservatives | 105
+Whanganui |  |  | New Nation Party | 17
+Whanganui |  |  | New Zealand Loyal | 544
+Whanganui |  |  | NewZeal | 315
+Whanganui |  |  | Te Pāti Māori | 602
+Whanganui |  |  | The Opportunities Party (TOP) | 463
+Whanganui |  |  | Women’s Rights Party | 30

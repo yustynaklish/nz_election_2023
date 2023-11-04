@@ -1,0 +1,19 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Remutaka | CHATTERTON, Emma | 13485 | National Party | 12726
+Remutaka | HIPKINS, Chris | 22344 | Labour Party | 16000
+Remutaka | HURLE, Michael | 1261 | ACT New Zealand | 2476
+Remutaka | NORTON, Chris | 2794 | Green Party | 5068
+Remutaka | PITIROI, Tony | 899 | NewZeal | 500
+Remutaka | ROBERTSON, Heker | 409 |  | 
+Remutaka |  |  | Animal Justice Party | 96
+Remutaka |  |  | Aotearoa Legalise Cannabis Party | 177
+Remutaka |  |  | DemocracyNZ | 55
+Remutaka |  |  | Freedoms NZ | 147
+Remutaka |  |  | Leighton Baker Party | 13
+Remutaka |  |  | New Conservatives | 71
+Remutaka |  |  | New Nation Party | 12
+Remutaka |  |  | New Zealand First Party | 2441
+Remutaka |  |  | New Zealand Loyal | 261
+Remutaka |  |  | Te Pāti Māori | 511
+Remutaka |  |  | The Opportunities Party (TOP) | 1147
+Remutaka |  |  | Women’s Rights Party | 35

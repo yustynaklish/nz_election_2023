@@ -1,0 +1,19 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Rangitata | BALLANTYNE, Robert | 2159 | New Zealand First Party | 3010
+Rangitata | CLARKSON, Michael | 170 |  | 
+Rangitata | GILCHRIST, Barbara | 1784 | Green Party | 2351
+Rangitata | LUXTON, Jo | 11946 | Labour Party | 10660
+Rangitata | MEAGER, James | 22792 | National Party | 18167
+Rangitata | SHEARER, Wayne | 755 | New Zealand Loyal | 586
+Rangitata | THOMAS, Karl | 310 | New Conservatives | 148
+Rangitata | Van AMERSFOORT, Dolf | 92 | New Nation Party | 55
+Rangitata |  |  | ACT New Zealand | 4082
+Rangitata |  |  | Animal Justice Party | 62
+Rangitata |  |  | Aotearoa Legalise Cannabis Party | 211
+Rangitata |  |  | DemocracyNZ | 123
+Rangitata |  |  | Freedoms NZ | 68
+Rangitata |  |  | Leighton Baker Party | 75
+Rangitata |  |  | NewZeal | 148
+Rangitata |  |  | Te Pāti Māori | 156
+Rangitata |  |  | The Opportunities Party (TOP) | 522
+Rangitata |  |  | Women’s Rights Party | 37

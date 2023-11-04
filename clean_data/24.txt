@@ -1,0 +1,20 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Mt Albert | LEE, Melissa | 13218 | National Party | 12705
+Mt Albert | MENENDEZ MARCH, Ricardo | 9302 | Green Party | 10030
+Mt Albert | MURPHY, Ollie | 1483 | ACT New Zealand | 2681
+Mt Albert | NAUFAHU, Tesi | 155 |  | 
+Mt Albert | SWORDS, Ciara | 1319 | The Opportunities Party (TOP) | 1474
+Mt Albert | VAN DEN HEUVEL, Anthony Joseph J | 103 |  | 
+Mt Albert | WHITE, Helen | 13238 | Labour Party | 10336
+Mt Albert |  |  | Animal Justice Party | 51
+Mt Albert |  |  | Aotearoa Legalise Cannabis Party | 115
+Mt Albert |  |  | DemocracyNZ | 21
+Mt Albert |  |  | Freedoms NZ | 60
+Mt Albert |  |  | Leighton Baker Party | 6
+Mt Albert |  |  | New Conservatives | 30
+Mt Albert |  |  | New Nation Party | 9
+Mt Albert |  |  | New Zealand First Party | 1220
+Mt Albert |  |  | New Zealand Loyal | 146
+Mt Albert |  |  | NewZeal | 83
+Mt Albert |  |  | Te Pāti Māori | 640
+Mt Albert |  |  | Women’s Rights Party | 39

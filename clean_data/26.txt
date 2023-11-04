@@ -1,0 +1,19 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Napier | DICKEY, Julienne | 2190 | Green Party | 3476
+Napier | HUTCHINSON, Mark | 12474 | Labour Party | 10810
+Napier | LANGFORD, Martin | 765 | DemocracyNZ | 205
+Napier | MILEWSKI, Pawel | 1211 | ACT New Zealand | 4503
+Napier | NIMON, Katie | 21344 | National Party | 16670
+Napier | SMITH, John Clive | 258 |  | 
+Napier | TURNBULL, Laurie | 1729 | New Zealand First Party | 2794
+Napier |  |  | Animal Justice Party | 69
+Napier |  |  | Aotearoa Legalise Cannabis Party | 199
+Napier |  |  | Freedoms NZ | 79
+Napier |  |  | Leighton Baker Party | 26
+Napier |  |  | New Conservatives | 44
+Napier |  |  | New Nation Party | 18
+Napier |  |  | New Zealand Loyal | 514
+Napier |  |  | NewZeal | 215
+Napier |  |  | Te Pāti Māori | 380
+Napier |  |  | The Opportunities Party (TOP) | 621
+Napier |  |  | Women’s Rights Party | 36

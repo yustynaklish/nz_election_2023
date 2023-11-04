@@ -1,0 +1,19 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Port Waikato | BAYLY, Andrew (poll cancelled) | 0 | National Party | 20757
+Port Waikato | BRIGHT, Scotty (poll cancelled) | 0 | DemocracyNZ | 232
+Port Waikato | BUCHANAN, Karla (poll cancelled) | 0 | Green Party | 2484
+Port Waikato | CHRISTENSEN, Neil (poll cancelled) | 0 | ACT New Zealand | 5107
+Port Waikato | COSTELLO, Casey (poll cancelled) | 0 | New Zealand First Party | 3075
+Port Waikato | KEEL, Gwendoline (poll cancelled) | 0 | Labour Party | 7918
+Port Waikato | RIPPON, Anna Joy (poll cancelled) | 0 | Animal Justice Party | 94
+Port Waikato | SUDHAMALLA, Vijay (poll cancelled) | 0 |  | 
+Port Waikato | TURNER, Kim (poll cancelled) | 0 | New Zealand Loyal | 546
+Port Waikato |  |  | Aotearoa Legalise Cannabis Party | 177
+Port Waikato |  |  | Freedoms NZ | 150
+Port Waikato |  |  | Leighton Baker Party | 532
+Port Waikato |  |  | New Conservatives | 82
+Port Waikato |  |  | New Nation Party | 107
+Port Waikato |  |  | NewZeal | 225
+Port Waikato |  |  | Te Pāti Māori | 392
+Port Waikato |  |  | The Opportunities Party (TOP) | 492
+Port Waikato |  |  | Women’s Rights Party | 29

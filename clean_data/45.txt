@@ -1,0 +1,18 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Selwyn | COULTER, Abe | 506 | New Conservatives | 136
+Selwyn | COURTNEY, Logan | 1022 | New Zealand Loyal | 430
+Selwyn | GRIGG, Nicola | 31504 | National Party | 23959
+Selwyn | HARVEY, Ben | 2822 | ACT New Zealand | 5895
+Selwyn | JONES, Luke | 11722 | Labour Party | 8805
+Selwyn |  |  | Animal Justice Party | 91
+Selwyn |  |  | Aotearoa Legalise Cannabis Party | 184
+Selwyn |  |  | DemocracyNZ | 89
+Selwyn |  |  | Freedoms NZ | 62
+Selwyn |  |  | Green Party | 4340
+Selwyn |  |  | Leighton Baker Party | 41
+Selwyn |  |  | New Nation Party | 30
+Selwyn |  |  | New Zealand First Party | 2633
+Selwyn |  |  | NewZeal | 225
+Selwyn |  |  | Te Pāti Māori | 235
+Selwyn |  |  | The Opportunities Party (TOP) | 1311
+Selwyn |  |  | Women’s Rights Party | 39

@@ -1,0 +1,19 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Waiariki | BOYNTON, Toni | 5609 | Labour Party | 12892
+Waiariki | HUNIA, Charles Tiki | 1067 |  | 
+Waiariki | WAITITI, Rawiri | 21500 | Te Pāti Māori | 11300
+Waiariki |  |  | ACT New Zealand | 221
+Waiariki |  |  | Animal Justice Party | 24
+Waiariki |  |  | Aotearoa Legalise Cannabis Party | 245
+Waiariki |  |  | DemocracyNZ | 31
+Waiariki |  |  | Freedoms NZ | 417
+Waiariki |  |  | Green Party | 1637
+Waiariki |  |  | Leighton Baker Party | 15
+Waiariki |  |  | National Party | 1003
+Waiariki |  |  | New Conservatives | 7
+Waiariki |  |  | New Nation Party | 4
+Waiariki |  |  | New Zealand First Party | 1109
+Waiariki |  |  | New Zealand Loyal | 241
+Waiariki |  |  | NewZeal | 150
+Waiariki |  |  | The Opportunities Party (TOP) | 159
+Waiariki |  |  | Women’s Rights Party | 30

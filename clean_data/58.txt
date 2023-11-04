@@ -1,0 +1,19 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Wairarapa | ARNOTT, Pete | 1737 | New Zealand Loyal | 1027
+Wairarapa | BUTTERICK, Mike | 20313 | National Party | 17397
+Wairarapa | CASEY, Simon Francis | 1907 | ACT New Zealand | 4752
+Wairarapa | GARDNER, Jared Warren | 247 |  | 
+Wairarapa | McANULTY, Kieran | 17497 | Labour Party | 12223
+Wairarapa | WADE-BROWN, Celia | 1832 | Green Party | 3676
+Wairarapa | WAIKARE, Te Whakapono | 517 | Te Pāti Māori | 455
+Wairarapa |  |  | Animal Justice Party | 81
+Wairarapa |  |  | Aotearoa Legalise Cannabis Party | 207
+Wairarapa |  |  | DemocracyNZ | 72
+Wairarapa |  |  | Freedoms NZ | 93
+Wairarapa |  |  | Leighton Baker Party | 35
+Wairarapa |  |  | New Conservatives | 58
+Wairarapa |  |  | New Nation Party | 32
+Wairarapa |  |  | New Zealand First Party | 3655
+Wairarapa |  |  | NewZeal | 156
+Wairarapa |  |  | The Opportunities Party (TOP) | 708
+Wairarapa |  |  | Women’s Rights Party | 47

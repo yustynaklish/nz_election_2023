@@ -1,0 +1,18 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Whangaparāoa | ANGELO, Simon | 2522 | ACT New Zealand | 5627
+Whangaparāoa | LAYBOURN, Craig | 652 | DemocracyNZ | 157
+Whangaparāoa | MITCHELL, Mark | 30742 | National Party | 25091
+Whangaparāoa | MULLER PALLARÈS, Estefania | 7366 | Labour Party | 7202
+Whangaparāoa | NEWMAN, Lorraine | 3487 | Green Party | 3584
+Whangaparāoa | WILSON, Jeanette | 1489 | New Zealand Loyal | 630
+Whangaparāoa |  |  | Animal Justice Party | 91
+Whangaparāoa |  |  | Aotearoa Legalise Cannabis Party | 131
+Whangaparāoa |  |  | Freedoms NZ | 92
+Whangaparāoa |  |  | Leighton Baker Party | 29
+Whangaparāoa |  |  | New Conservatives | 65
+Whangaparāoa |  |  | New Nation Party | 16
+Whangaparāoa |  |  | New Zealand First Party | 2952
+Whangaparāoa |  |  | NewZeal | 460
+Whangaparāoa |  |  | Te Pāti Māori | 222
+Whangaparāoa |  |  | The Opportunities Party (TOP) | 770
+Whangaparāoa |  |  | Women’s Rights Party | 36

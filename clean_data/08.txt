@@ -1,0 +1,20 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Dunedin | BROOKING, Rachel | 17111 | Labour Party | 13160
+Dunedin | ELDER, Cyndee | 160 | New Conservatives | 94
+Dunedin | HERNANDEZ, Francisco | 8031 | Green Party | 11449
+Dunedin | LANGEVELD, Keegan | 1304 | New Zealand First Party | 2396
+Dunedin | LAWTON, Steve | 540 | New Zealand Loyal | 402
+Dunedin | McDERMOTT, Adrian | 564 | Aotearoa Legalise Cannabis Party | 159
+Dunedin | NEWMAN, Tim | 1696 | ACT New Zealand | 2460
+Dunedin | O&#39;MALLEY, Jim | 1272 |  | 
+Dunedin | PETERS, Ben | 1891 | The Opportunities Party (TOP) | 1810
+Dunedin | TAYLOR, Pamela | 60 |  | 
+Dunedin | WOODHOUSE, Michael | 9131 | National Party | 9652
+Dunedin |  |  | Animal Justice Party | 57
+Dunedin |  |  | DemocracyNZ | 25
+Dunedin |  |  | Freedoms NZ | 44
+Dunedin |  |  | Leighton Baker Party | 19
+Dunedin |  |  | New Nation Party | 18
+Dunedin |  |  | NewZeal | 114
+Dunedin |  |  | Te Pāti Māori | 613
+Dunedin |  |  | Women’s Rights Party | 35

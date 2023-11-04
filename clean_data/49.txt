@@ -1,0 +1,18 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Tāmaki | O&#39;CONNOR, Simon | 13700 | National Party | 21916
+Tāmaki | PERRATT, Anne | 389 | New Zealand Loyal | 167
+Tāmaki | SOLOMONE, Fesaitu | 8968 | Labour Party | 7009
+Tāmaki | VAN VELDEN, Brooke | 17858 | ACT New Zealand | 5172
+Tāmaki |  |  | Animal Justice Party | 51
+Tāmaki |  |  | Aotearoa Legalise Cannabis Party | 88
+Tāmaki |  |  | DemocracyNZ | 34
+Tāmaki |  |  | Freedoms NZ | 47
+Tāmaki |  |  | Green Party | 4582
+Tāmaki |  |  | Leighton Baker Party | 6
+Tāmaki |  |  | New Conservatives | 29
+Tāmaki |  |  | New Nation Party | 6
+Tāmaki |  |  | New Zealand First Party | 1198
+Tāmaki |  |  | NewZeal | 82
+Tāmaki |  |  | Te Pāti Māori | 288
+Tāmaki |  |  | The Opportunities Party (TOP) | 980
+Tāmaki |  |  | Women’s Rights Party | 28

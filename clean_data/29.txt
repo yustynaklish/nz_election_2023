@@ -1,0 +1,18 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+New Plymouth | BENNETT, Glen | 15492 | Labour Party | 10442
+New Plymouth | McGECHAN, Bruce | 1957 | ACT New Zealand | 4388
+New Plymouth | MACLEOD, David | 22483 | National Party | 18208
+New Plymouth | ROBINSON, Greg | 252 | New Nation Party | 117
+New Plymouth | WATKINS, Hamish | 562 | Animal Justice Party | 88
+New Plymouth | WILLETTS, Warren | 1738 | New Zealand Loyal | 942
+New Plymouth |  |  | Aotearoa Legalise Cannabis Party | 202
+New Plymouth |  |  | DemocracyNZ | 54
+New Plymouth |  |  | Freedoms NZ | 149
+New Plymouth |  |  | Green Party | 3674
+New Plymouth |  |  | Leighton Baker Party | 24
+New Plymouth |  |  | New Conservatives | 54
+New Plymouth |  |  | New Zealand First Party | 3134
+New Plymouth |  |  | NewZeal | 180
+New Plymouth |  |  | Te Pāti Māori | 617
+New Plymouth |  |  | The Opportunities Party (TOP) | 848
+New Plymouth |  |  | Women’s Rights Party | 51

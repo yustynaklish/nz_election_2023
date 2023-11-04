@@ -1,0 +1,19 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Ōtaki | COSTLEY, Tim | 22145 | National Party | 16520
+Ōtaki | MUHAMMAD, Ali | 2946 | Green Party | 4703
+Ōtaki | NGOBI, Terisa | 15874 | Labour Party | 13709
+Ōtaki | RUSH, Sean Edward | 1327 | ACT New Zealand | 3306
+Ōtaki | TEN-HAVE, Bryan | 1078 | New Zealand Loyal | 637
+Ōtaki | WESSEX, Bob | 75 |  | 
+Ōtaki |  |  | Animal Justice Party | 89
+Ōtaki |  |  | Aotearoa Legalise Cannabis Party | 158
+Ōtaki |  |  | DemocracyNZ | 48
+Ōtaki |  |  | Freedoms NZ | 137
+Ōtaki |  |  | Leighton Baker Party | 17
+Ōtaki |  |  | New Conservatives | 52
+Ōtaki |  |  | New Nation Party | 20
+Ōtaki |  |  | New Zealand First Party | 3437
+Ōtaki |  |  | NewZeal | 210
+Ōtaki |  |  | Te Pāti Māori | 510
+Ōtaki |  |  | The Opportunities Party (TOP) | 692
+Ōtaki |  |  | Women’s Rights Party | 34

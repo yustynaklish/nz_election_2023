@@ -1,0 +1,18 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Palmerston North | BANSAL, Ankit | 12252 | National Party | 12195
+Palmerston North | BEGG, Douglas | 402 | Animal Justice Party | 96
+Palmerston North | GRANT, Dean | 1016 | New Zealand Loyal | 437
+Palmerston North | HARNETT, Mike | 2841 | ACT New Zealand | 2970
+Palmerston North | TUIONO, Teanau | 3162 | Green Party | 4454
+Palmerston North | UTIKERE, Tangi | 15339 | Labour Party | 11293
+Palmerston North |  |  | Aotearoa Legalise Cannabis Party | 199
+Palmerston North |  |  | DemocracyNZ | 47
+Palmerston North |  |  | Freedoms NZ | 77
+Palmerston North |  |  | Leighton Baker Party | 23
+Palmerston North |  |  | New Conservatives | 61
+Palmerston North |  |  | New Nation Party | 17
+Palmerston North |  |  | New Zealand First Party | 2242
+Palmerston North |  |  | NewZeal | 290
+Palmerston North |  |  | Te Pāti Māori | 625
+Palmerston North |  |  | The Opportunities Party (TOP) | 821
+Palmerston North |  |  | Women’s Rights Party | 30

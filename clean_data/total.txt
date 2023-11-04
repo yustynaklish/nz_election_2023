@@ -1,0 +1,1309 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Invercargill | CRAIG, Liz | 10945 | Labour Party | 9589
+Invercargill | DONALDSON, Scott Ian | 1990 | ACT New Zealand | 3967
+Invercargill | KOWALEWSKI, David | 1760 | New Zealand Loyal | 1099
+Invercargill | O&#39;CONNELL, Kevin Patrick | 1072 | Aotearoa Legalise Cannabis Party | 235
+Invercargill | SIMMONDS, Penny | 20819 | National Party | 16027
+Invercargill | TERRILL, Judith | 307 |  | 
+Invercargill |  |  | Animal Justice Party | 68
+Invercargill |  |  | DemocracyNZ | 48
+Invercargill |  |  | Freedoms NZ | 137
+Invercargill |  |  | Green Party | 2332
+Invercargill |  |  | Leighton Baker Party | 32
+Invercargill |  |  | New Conservatives | 54
+Invercargill |  |  | New Nation Party | 29
+Invercargill |  |  | New Zealand First Party | 2778
+Invercargill |  |  | NewZeal | 212
+Invercargill |  |  | Te Pāti Māori | 278
+Invercargill |  |  | The Opportunities Party (TOP) | 482
+Invercargill |  |  | Women’s Rights Party | 38
+Southland | EVANS, Logan | 2172 | New Zealand Loyal | 974
+Southland | GRUMBALL, Anntwinette | 687 | Aotearoa Legalise Cannabis Party | 217
+Southland | KENNEDY, Dave | 3860 | Green Party | 3482
+Southland | McCALLUM, Simon | 6020 | Labour Party | 6546
+Southland | MACLEAN, Naomi | 228 |  | 
+Southland | MOONEY, Joseph | 23231 | National Party | 19222
+Southland | STEPHENSON, Todd | 2807 | ACT New Zealand | 5412
+Southland |  |  | Animal Justice Party | 65
+Southland |  |  | DemocracyNZ | 60
+Southland |  |  | Freedoms NZ | 91
+Southland |  |  | Leighton Baker Party | 20
+Southland |  |  | New Conservatives | 32
+Southland |  |  | New Nation Party | 35
+Southland |  |  | New Zealand First Party | 2258
+Southland |  |  | NewZeal | 246
+Southland |  |  | Te Pāti Māori | 190
+Southland |  |  | The Opportunities Party (TOP) | 810
+Southland |  |  | Women’s Rights Party | 28
+Tukituki | DOUGLAS, Rob | 2016 | ACT New Zealand | 5117
+Tukituki | HULMAN, Rob | 1030 | New Zealand Loyal | 620
+Tukituki | LORCK, Anna | 11863 | Labour Party | 10518
+Tukituki | MANNING, Romana (Marnz) | 631 | Aotearoa Legalise Cannabis Party | 228
+Tukituki | NGAHUKA, Michael | 379 |  | 
+Tukituki | PETROWSKI, Melanie Lorraine | 181 |  | 
+Tukituki | PONK, Michael | 45 |  | 
+Tukituki | RATCLIFFE, Nick | 2383 | Green Party | 3284
+Tukituki | TOSH, Allister David | 66 |  | 
+Tukituki | WEDD, Catherine | 21981 | National Party | 17165
+Tukituki |  |  | Animal Justice Party | 68
+Tukituki |  |  | DemocracyNZ | 71
+Tukituki |  |  | Freedoms NZ | 123
+Tukituki |  |  | Leighton Baker Party | 35
+Tukituki |  |  | New Conservatives | 64
+Tukituki |  |  | New Nation Party | 14
+Tukituki |  |  | New Zealand First Party | 2550
+Tukituki |  |  | NewZeal | 432
+Tukituki |  |  | Te Pāti Māori | 410
+Tukituki |  |  | The Opportunities Party (TOP) | 587
+Tukituki |  |  | Women’s Rights Party | 39
+Tāmaki | O&#39;CONNOR, Simon | 13700 | National Party | 21916
+Tāmaki | PERRATT, Anne | 389 | New Zealand Loyal | 167
+Tāmaki | SOLOMONE, Fesaitu | 8968 | Labour Party | 7009
+Tāmaki | VAN VELDEN, Brooke | 17858 | ACT New Zealand | 5172
+Tāmaki |  |  | Animal Justice Party | 51
+Tāmaki |  |  | Aotearoa Legalise Cannabis Party | 88
+Tāmaki |  |  | DemocracyNZ | 34
+Tāmaki |  |  | Freedoms NZ | 47
+Tāmaki |  |  | Green Party | 4582
+Tāmaki |  |  | Leighton Baker Party | 6
+Tāmaki |  |  | New Conservatives | 29
+Tāmaki |  |  | New Nation Party | 6
+Tāmaki |  |  | New Zealand First Party | 1198
+Tāmaki |  |  | NewZeal | 82
+Tāmaki |  |  | Te Pāti Māori | 288
+Tāmaki |  |  | The Opportunities Party (TOP) | 980
+Tāmaki |  |  | Women’s Rights Party | 28
+Hamilton East | BAN, Tanya | 517 | New Zealand Loyal | 341
+Hamilton East | CARRINGTON, Lily | 321 | Animal Justice Party | 69
+Hamilton East | CORKIN, Alex | 1195 | The Opportunities Party (TOP) | 1040
+Hamilton East | COUPER, Nathan Lee | 27 |  | 
+Hamilton East | DANSEY, Georgie | 12890 | Labour Party | 9497
+Hamilton East | GIELEN, Jacobus | 40 |  | 
+Hamilton East | HAMILTON, Ryan | 17950 | National Party | 16373
+Hamilton East | KNAAP, Russelle | 1206 | New Zealand First Party | 1914
+Hamilton East | PARKER, Awatea | 1227 | Te Pāti Māori | 565
+Hamilton East | PARMAR, Himanshu | 1679 | ACT New Zealand | 3085
+Hamilton East |  |  | Aotearoa Legalise Cannabis Party | 110
+Hamilton East |  |  | DemocracyNZ | 39
+Hamilton East |  |  | Freedoms NZ | 80
+Hamilton East |  |  | Green Party | 4718
+Hamilton East |  |  | Leighton Baker Party | 25
+Hamilton East |  |  | New Conservatives | 91
+Hamilton East |  |  | New Nation Party | 19
+Hamilton East |  |  | NewZeal | 204
+Hamilton East |  |  | Women’s Rights Party | 40
+Taupō | AL-BUSTANJI, Aladdin | 8353 | Labour Party | 9686
+Taupō | COZENS, Zane | 2808 | ACT New Zealand | 4960
+Taupō | O&#39;CONNOR PATENA, George | 3441 | Green Party | 2773
+Taupō | PEHI, Tira | 2114 | New Zealand First Party | 3508
+Taupō | UPSTON, Louise | 24858 | National Party | 19966
+Taupō | WILSON, Gordon | 1410 | New Zealand Loyal | 961
+Taupō |  |  | Animal Justice Party | 50
+Taupō |  |  | Aotearoa Legalise Cannabis Party | 178
+Taupō |  |  | DemocracyNZ | 75
+Taupō |  |  | Freedoms NZ | 134
+Taupō |  |  | Leighton Baker Party | 36
+Taupō |  |  | New Conservatives | 66
+Taupō |  |  | New Nation Party | 20
+Taupō |  |  | NewZeal | 208
+Taupō |  |  | Te Pāti Māori | 567
+Taupō |  |  | The Opportunities Party (TOP) | 644
+Taupō |  |  | Women’s Rights Party | 26
+East Coast | CARACAS, Monaco | 68 |  | 
+East Coast | COFFEY, Tamati | 13597 | Labour Party | 11905
+East Coast | DICKSON, Gordon John | 63 |  | 
+East Coast | FLAVELL, Fallyn | 1226 | Te Pāti Māori | 909
+East Coast | HOWE, Michael | 1892 | ACT New Zealand | 3540
+East Coast | KIRKPATRICK, Dana | 16714 | National Party | 14649
+East Coast | PACKER, Leighton | 315 |  | 
+East Coast | RICHARDS, Don | 103 |  | 
+East Coast | ROBINSON, Chris | 615 | DemocracyNZ | 196
+East Coast | SINCLAIR, Craig | 2482 | New Zealand First Party | 3842
+East Coast | WALKER, Jordan | 1751 | Green Party | 2961
+East Coast |  |  | Animal Justice Party | 43
+East Coast |  |  | Aotearoa Legalise Cannabis Party | 162
+East Coast |  |  | Freedoms NZ | 172
+East Coast |  |  | Leighton Baker Party | 28
+East Coast |  |  | New Conservatives | 55
+East Coast |  |  | New Nation Party | 20
+East Coast |  |  | New Zealand Loyal | 538
+East Coast |  |  | NewZeal | 240
+East Coast |  |  | The Opportunities Party (TOP) | 454
+East Coast |  |  | Women’s Rights Party | 23
+Mt Albert | LEE, Melissa | 13218 | National Party | 12705
+Mt Albert | MENENDEZ MARCH, Ricardo | 9302 | Green Party | 10030
+Mt Albert | MURPHY, Ollie | 1483 | ACT New Zealand | 2681
+Mt Albert | NAUFAHU, Tesi | 155 |  | 
+Mt Albert | SWORDS, Ciara | 1319 | The Opportunities Party (TOP) | 1474
+Mt Albert | VAN DEN HEUVEL, Anthony Joseph J | 103 |  | 
+Mt Albert | WHITE, Helen | 13238 | Labour Party | 10336
+Mt Albert |  |  | Animal Justice Party | 51
+Mt Albert |  |  | Aotearoa Legalise Cannabis Party | 115
+Mt Albert |  |  | DemocracyNZ | 21
+Mt Albert |  |  | Freedoms NZ | 60
+Mt Albert |  |  | Leighton Baker Party | 6
+Mt Albert |  |  | New Conservatives | 30
+Mt Albert |  |  | New Nation Party | 9
+Mt Albert |  |  | New Zealand First Party | 1220
+Mt Albert |  |  | New Zealand Loyal | 146
+Mt Albert |  |  | NewZeal | 83
+Mt Albert |  |  | Te Pāti Māori | 640
+Mt Albert |  |  | Women’s Rights Party | 39
+Remutaka | CHATTERTON, Emma | 13485 | National Party | 12726
+Remutaka | HIPKINS, Chris | 22344 | Labour Party | 16000
+Remutaka | HURLE, Michael | 1261 | ACT New Zealand | 2476
+Remutaka | NORTON, Chris | 2794 | Green Party | 5068
+Remutaka | PITIROI, Tony | 899 | NewZeal | 500
+Remutaka | ROBERTSON, Heker | 409 |  | 
+Remutaka |  |  | Animal Justice Party | 96
+Remutaka |  |  | Aotearoa Legalise Cannabis Party | 177
+Remutaka |  |  | DemocracyNZ | 55
+Remutaka |  |  | Freedoms NZ | 147
+Remutaka |  |  | Leighton Baker Party | 13
+Remutaka |  |  | New Conservatives | 71
+Remutaka |  |  | New Nation Party | 12
+Remutaka |  |  | New Zealand First Party | 2441
+Remutaka |  |  | New Zealand Loyal | 261
+Remutaka |  |  | Te Pāti Māori | 511
+Remutaka |  |  | The Opportunities Party (TOP) | 1147
+Remutaka |  |  | Women’s Rights Party | 35
+Takanini | AH CHEE, Rae | 2037 | ACT New Zealand | 2202
+Takanini | LEAVASA, Anae Neru | 13161 | Labour Party | 11181
+Takanini | NAKHLE, Rima | 21936 | National Party | 21056
+Takanini | TULLOCH, Lynley Kim | 736 | Animal Justice Party | 82
+Takanini |  |  | Aotearoa Legalise Cannabis Party | 108
+Takanini |  |  | DemocracyNZ | 32
+Takanini |  |  | Freedoms NZ | 208
+Takanini |  |  | Green Party | 2277
+Takanini |  |  | Leighton Baker Party | 16
+Takanini |  |  | New Conservatives | 68
+Takanini |  |  | New Nation Party | 14
+Takanini |  |  | New Zealand First Party | 1267
+Takanini |  |  | New Zealand Loyal | 135
+Takanini |  |  | NewZeal | 299
+Takanini |  |  | Te Pāti Māori | 440
+Takanini |  |  | The Opportunities Party (TOP) | 333
+Takanini |  |  | Women’s Rights Party | 25
+Ilam | BRITNELL, Irinka | 488 | Aotearoa Legalise Cannabis Party | 179
+Ilam | CAMPBELL, Hamish | 18693 | National Party | 18452
+Ilam | DAVIDSON, Mike | 2391 | Green Party | 6401
+Ilam | MANJI, Raf | 10863 | The Opportunities Party (TOP) | 2138
+Ilam | O&#39;BRIEN, Chris | 300 | New Conservatives | 96
+Ilam | O&#39;CONNELL, Juanita | 329 | DemocracyNZ | 101
+Ilam | PALLETT, Sarah | 9010 | Labour Party | 9395
+Ilam |  |  | ACT New Zealand | 3557
+Ilam |  |  | Animal Justice Party | 50
+Ilam |  |  | Freedoms NZ | 55
+Ilam |  |  | Leighton Baker Party | 44
+Ilam |  |  | New Nation Party | 23
+Ilam |  |  | New Zealand First Party | 1729
+Ilam |  |  | New Zealand Loyal | 150
+Ilam |  |  | NewZeal | 85
+Ilam |  |  | Te Pāti Māori | 265
+Ilam |  |  | Women’s Rights Party | 47
+Tāmaki Makaurau | HENARE, Peeni | 10046 | Labour Party | 11574
+Tāmaki Makaurau | KEMP, Takutai Tarsh | 10050 | Te Pāti Māori | 8048
+Tāmaki Makaurau | TAMAKI, Hannah | 829 |  | 
+Tāmaki Makaurau | TANA, Darleen | 2911 | Green Party | 3230
+Tāmaki Makaurau | TE HAU, Hinurewa | 1274 | National Party | 1269
+Tāmaki Makaurau |  |  | ACT New Zealand | 254
+Tāmaki Makaurau |  |  | Animal Justice Party | 27
+Tāmaki Makaurau |  |  | Aotearoa Legalise Cannabis Party | 248
+Tāmaki Makaurau |  |  | DemocracyNZ | 28
+Tāmaki Makaurau |  |  | Freedoms NZ | 478
+Tāmaki Makaurau |  |  | Leighton Baker Party | 7
+Tāmaki Makaurau |  |  | New Conservatives | 13
+Tāmaki Makaurau |  |  | New Nation Party | 2
+Tāmaki Makaurau |  |  | New Zealand First Party | 927
+Tāmaki Makaurau |  |  | New Zealand Loyal | 174
+Tāmaki Makaurau |  |  | NewZeal | 121
+Tāmaki Makaurau |  |  | The Opportunities Party (TOP) | 248
+Tāmaki Makaurau |  |  | Women’s Rights Party | 25
+Wairarapa | ARNOTT, Pete | 1737 | New Zealand Loyal | 1027
+Wairarapa | BUTTERICK, Mike | 20313 | National Party | 17397
+Wairarapa | CASEY, Simon Francis | 1907 | ACT New Zealand | 4752
+Wairarapa | GARDNER, Jared Warren | 247 |  | 
+Wairarapa | McANULTY, Kieran | 17497 | Labour Party | 12223
+Wairarapa | WADE-BROWN, Celia | 1832 | Green Party | 3676
+Wairarapa | WAIKARE, Te Whakapono | 517 | Te Pāti Māori | 455
+Wairarapa |  |  | Animal Justice Party | 81
+Wairarapa |  |  | Aotearoa Legalise Cannabis Party | 207
+Wairarapa |  |  | DemocracyNZ | 72
+Wairarapa |  |  | Freedoms NZ | 93
+Wairarapa |  |  | Leighton Baker Party | 35
+Wairarapa |  |  | New Conservatives | 58
+Wairarapa |  |  | New Nation Party | 32
+Wairarapa |  |  | New Zealand First Party | 3655
+Wairarapa |  |  | NewZeal | 156
+Wairarapa |  |  | The Opportunities Party (TOP) | 708
+Wairarapa |  |  | Women’s Rights Party | 47
+Auckland Central | COKER, Christopher | 365 | Aotearoa Legalise Cannabis Party | 142
+Auckland Central | DAVIE, Paul | 91 |  | 
+Auckland Central | KANE, Madeleine | 135 | Animal Justice Party | 50
+Auckland Central | LIU, Andi Shen | 110 |  | 
+Auckland Central | MURALIDHAR, Mahesh | 12728 | National Party | 11751
+Auckland Central | POOLE, Felix | 1251 | ACT New Zealand | 3301
+Auckland Central | SIMS, Oscar | 2592 | Labour Party | 8028
+Auckland Central | SLOCUM, Guy Dennis | 89 | New Nation Party | 26
+Auckland Central | SWARBRICK, Chlöe | 16624 | Green Party | 8503
+Auckland Central | SYCAMORE, Damian | 462 | The Opportunities Party (TOP) | 1250
+Auckland Central |  |  | DemocracyNZ | 32
+Auckland Central |  |  | Freedoms NZ | 48
+Auckland Central |  |  | Leighton Baker Party | 3
+Auckland Central |  |  | New Conservatives | 30
+Auckland Central |  |  | New Zealand First Party | 1351
+Auckland Central |  |  | New Zealand Loyal | 217
+Auckland Central |  |  | NewZeal | 38
+Auckland Central |  |  | Te Pāti Māori | 563
+Auckland Central |  |  | Women’s Rights Party | 45
+Ōhāriu | DAY, Paul | 759 | ACT New Zealand | 2524
+Ōhāriu | HAMMOND, Jessica | 2975 | The Opportunities Party (TOP) | 1882
+Ōhāriu | JENKINS, Martin | 124 |  | 
+Ōhāriu | LIM, Patrick | 214 |  | 
+Ōhāriu | O&#39;CONNOR, Greg | 17565 | Labour Party | 12457
+Ōhāriu | RODGERS, Stephanie | 4412 | Green Party | 8623
+Ōhāriu | WILLIS, Nicola | 16305 | National Party | 14841
+Ōhāriu |  |  | Animal Justice Party | 62
+Ōhāriu |  |  | Aotearoa Legalise Cannabis Party | 114
+Ōhāriu |  |  | DemocracyNZ | 25
+Ōhāriu |  |  | Freedoms NZ | 58
+Ōhāriu |  |  | Leighton Baker Party | 12
+Ōhāriu |  |  | New Conservatives | 65
+Ōhāriu |  |  | New Nation Party | 11
+Ōhāriu |  |  | New Zealand First Party | 1442
+Ōhāriu |  |  | New Zealand Loyal | 112
+Ōhāriu |  |  | NewZeal | 119
+Ōhāriu |  |  | Te Pāti Māori | 519
+Ōhāriu |  |  | Women’s Rights Party | 31
+Whangaparāoa | ANGELO, Simon | 2522 | ACT New Zealand | 5627
+Whangaparāoa | LAYBOURN, Craig | 652 | DemocracyNZ | 157
+Whangaparāoa | MITCHELL, Mark | 30742 | National Party | 25091
+Whangaparāoa | MULLER PALLARÈS, Estefania | 7366 | Labour Party | 7202
+Whangaparāoa | NEWMAN, Lorraine | 3487 | Green Party | 3584
+Whangaparāoa | WILSON, Jeanette | 1489 | New Zealand Loyal | 630
+Whangaparāoa |  |  | Animal Justice Party | 91
+Whangaparāoa |  |  | Aotearoa Legalise Cannabis Party | 131
+Whangaparāoa |  |  | Freedoms NZ | 92
+Whangaparāoa |  |  | Leighton Baker Party | 29
+Whangaparāoa |  |  | New Conservatives | 65
+Whangaparāoa |  |  | New Nation Party | 16
+Whangaparāoa |  |  | New Zealand First Party | 2952
+Whangaparāoa |  |  | NewZeal | 460
+Whangaparāoa |  |  | Te Pāti Māori | 222
+Whangaparāoa |  |  | The Opportunities Party (TOP) | 770
+Whangaparāoa |  |  | Women’s Rights Party | 36
+Kelston | CURRAN, Jacob | 1774 | ACT New Zealand | 1990
+Kelston | DEGIA-PALA, Anne | 1142 | New Zealand First Party | 1580
+Kelston | GHAHRAMAN, Golriz | 3777 | Green Party | 4709
+Kelston | HAREMA, Jacqui | 679 | Te Pāti Māori | 591
+Kelston | HOOD, Alister | 219 | New Conservatives | 70
+Kelston | SCHAUMKEL, Ruby | 10017 | National Party | 10442
+Kelston | SEPULONI, Carmel | 14413 | Labour Party | 12460
+Kelston | TILDSLEY, Leao | 416 | DemocracyNZ | 97
+Kelston |  |  | Animal Justice Party | 56
+Kelston |  |  | Aotearoa Legalise Cannabis Party | 125
+Kelston |  |  | Freedoms NZ | 93
+Kelston |  |  | Leighton Baker Party | 12
+Kelston |  |  | New Nation Party | 12
+Kelston |  |  | New Zealand Loyal | 238
+Kelston |  |  | NewZeal | 267
+Kelston |  |  | The Opportunities Party (TOP) | 650
+Kelston |  |  | Women’s Rights Party | 30
+Palmerston North | BANSAL, Ankit | 12252 | National Party | 12195
+Palmerston North | BEGG, Douglas | 402 | Animal Justice Party | 96
+Palmerston North | GRANT, Dean | 1016 | New Zealand Loyal | 437
+Palmerston North | HARNETT, Mike | 2841 | ACT New Zealand | 2970
+Palmerston North | TUIONO, Teanau | 3162 | Green Party | 4454
+Palmerston North | UTIKERE, Tangi | 15339 | Labour Party | 11293
+Palmerston North |  |  | Aotearoa Legalise Cannabis Party | 199
+Palmerston North |  |  | DemocracyNZ | 47
+Palmerston North |  |  | Freedoms NZ | 77
+Palmerston North |  |  | Leighton Baker Party | 23
+Palmerston North |  |  | New Conservatives | 61
+Palmerston North |  |  | New Nation Party | 17
+Palmerston North |  |  | New Zealand First Party | 2242
+Palmerston North |  |  | NewZeal | 290
+Palmerston North |  |  | Te Pāti Māori | 625
+Palmerston North |  |  | The Opportunities Party (TOP) | 821
+Palmerston North |  |  | Women’s Rights Party | 30
+Selwyn | COULTER, Abe | 506 | New Conservatives | 136
+Selwyn | COURTNEY, Logan | 1022 | New Zealand Loyal | 430
+Selwyn | GRIGG, Nicola | 31504 | National Party | 23959
+Selwyn | HARVEY, Ben | 2822 | ACT New Zealand | 5895
+Selwyn | JONES, Luke | 11722 | Labour Party | 8805
+Selwyn |  |  | Animal Justice Party | 91
+Selwyn |  |  | Aotearoa Legalise Cannabis Party | 184
+Selwyn |  |  | DemocracyNZ | 89
+Selwyn |  |  | Freedoms NZ | 62
+Selwyn |  |  | Green Party | 4340
+Selwyn |  |  | Leighton Baker Party | 41
+Selwyn |  |  | New Nation Party | 30
+Selwyn |  |  | New Zealand First Party | 2633
+Selwyn |  |  | NewZeal | 225
+Selwyn |  |  | Te Pāti Māori | 235
+Selwyn |  |  | The Opportunities Party (TOP) | 1311
+Selwyn |  |  | Women’s Rights Party | 39
+Te Atatū | COURT, Simon | 2506 | ACT New Zealand | 2412
+Te Atatū | NEUMANN, Zooey | 3516 | Green Party | 4199
+Te Atatū | NICHOLAS, Angee | 14071 | National Party | 14045
+Te Atatū | PHILLIPS, Melanie | 482 |  | 
+Te Atatū | TAMIHERE, John | 1261 | Te Pāti Māori | 588
+Te Atatū | TWYFORD, Phil | 14202 | Labour Party | 12460
+Te Atatū |  |  | Animal Justice Party | 67
+Te Atatū |  |  | Aotearoa Legalise Cannabis Party | 151
+Te Atatū |  |  | DemocracyNZ | 37
+Te Atatū |  |  | Freedoms NZ | 106
+Te Atatū |  |  | Leighton Baker Party | 16
+Te Atatū |  |  | New Conservatives | 67
+Te Atatū |  |  | New Nation Party | 25
+Te Atatū |  |  | New Zealand First Party | 1681
+Te Atatū |  |  | New Zealand Loyal | 282
+Te Atatū |  |  | NewZeal | 354
+Te Atatū |  |  | The Opportunities Party (TOP) | 603
+Te Atatū |  |  | Women’s Rights Party | 40
+Waitaki | ANDERSON, Miles | 22675 | National Party | 19281
+Waitaki | BAILEY, Ray | 1125 | New Zealand Loyal | 902
+Waitaki | BEAMISH, Sean | 2477 | ACT New Zealand | 5473
+Waitaki | HANSEN, Pleasance | 3495 | Green Party | 4014
+Waitaki | ODERING, Anthony | 1823 | New Zealand First Party | 3103
+Waitaki | REILLE, Ethan | 10524 | Labour Party | 9575
+Waitaki | SHAND, Daniel | 584 |  | 
+Waitaki | SMALL, Roger | 1078 | DemocracyNZ | 281
+Waitaki |  |  | Animal Justice Party | 64
+Waitaki |  |  | Aotearoa Legalise Cannabis Party | 158
+Waitaki |  |  | Freedoms NZ | 61
+Waitaki |  |  | Leighton Baker Party | 33
+Waitaki |  |  | New Conservatives | 72
+Waitaki |  |  | New Nation Party | 10
+Waitaki |  |  | NewZeal | 281
+Waitaki |  |  | Te Pāti Māori | 182
+Waitaki |  |  | The Opportunities Party (TOP) | 873
+Waitaki |  |  | Women’s Rights Party | 30
+Whangārei | ANDREWS, Janita | 1006 | New Zealand Loyal | 905
+Whangārei | BAZELEY, Rick | 2680 | Green Party | 4075
+Whangārei | BENNEY, Gavin | 5371 | New Zealand First Party | 5673
+Whangārei | BRETHERTON, Susy | 1222 | ACT New Zealand | 3954
+Whangārei | BURGESS, Diana | 578 | DemocracyNZ | 352
+Whangārei | de JONGE, Jeni | 612 | Aotearoa Legalise Cannabis Party | 249
+Whangārei | GREEN, Fiona | 140 |  | 
+Whangārei | KAPA-KINGI, Eru | 859 | Te Pāti Māori | 591
+Whangārei | RETI, Shane | 20843 | National Party | 16441
+Whangārei | WARREN-CLARK, Angie | 9419 | Labour Party | 9698
+Whangārei |  |  | Animal Justice Party | 77
+Whangārei |  |  | Freedoms NZ | 110
+Whangārei |  |  | Leighton Baker Party | 32
+Whangārei |  |  | New Conservatives | 55
+Whangārei |  |  | New Nation Party | 35
+Whangārei |  |  | NewZeal | 336
+Whangārei |  |  | The Opportunities Party (TOP) | 730
+Whangārei |  |  | Women’s Rights Party | 35
+Waikato | DORNAN, Lois | 420 |  | 
+Waikato | HUSBAND, Stuart | 3587 | New Zealand First Party | 3319
+Waikato | OWEN, Megan | 1549 | The Opportunities Party (TOP) | 742
+Waikato | TOKO, Jamie | 9148 | Labour Party | 7612
+Waikato | VAN DE MOLEN, Tim | 27194 | National Party | 21749
+Waikato |  |  | ACT New Zealand | 5294
+Waikato |  |  | Animal Justice Party | 77
+Waikato |  |  | Aotearoa Legalise Cannabis Party | 190
+Waikato |  |  | DemocracyNZ | 86
+Waikato |  |  | Freedoms NZ | 142
+Waikato |  |  | Green Party | 2376
+Waikato |  |  | Leighton Baker Party | 28
+Waikato |  |  | New Conservatives | 102
+Waikato |  |  | New Nation Party | 19
+Waikato |  |  | New Zealand Loyal | 721
+Waikato |  |  | NewZeal | 238
+Waikato |  |  | Te Pāti Māori | 415
+Waikato |  |  | Women’s Rights Party | 36
+Taranaki-King Country | BURR, Bill | 3388 |  | 
+Taranaki-King Country | KURIGER, Barbara | 24760 | National Party | 19281
+Taranaki-King Country | RAISON, Daryl | 948 |  | 
+Taranaki-King Country | ROBERTS, Angela | 10405 | Labour Party | 7022
+Taranaki-King Country |  |  | ACT New Zealand | 5484
+Taranaki-King Country |  |  | Animal Justice Party | 66
+Taranaki-King Country |  |  | Aotearoa Legalise Cannabis Party | 165
+Taranaki-King Country |  |  | DemocracyNZ | 77
+Taranaki-King Country |  |  | Freedoms NZ | 137
+Taranaki-King Country |  |  | Green Party | 2828
+Taranaki-King Country |  |  | Leighton Baker Party | 43
+Taranaki-King Country |  |  | New Conservatives | 104
+Taranaki-King Country |  |  | New Nation Party | 31
+Taranaki-King Country |  |  | New Zealand First Party | 3398
+Taranaki-King Country |  |  | New Zealand Loyal | 800
+Taranaki-King Country |  |  | NewZeal | 229
+Taranaki-King Country |  |  | Te Pāti Māori | 494
+Taranaki-King Country |  |  | The Opportunities Party (TOP) | 645
+Taranaki-King Country |  |  | Women’s Rights Party | 32
+Northland | CAMERON, Mark | 2135 | ACT New Zealand | 4729
+Northland | FEYEN, Michael | 1331 | New Zealand Loyal | 1529
+Northland | FINLAYSON, Mike | 369 |  | 
+Northland | JONES, Shane Geoffrey | 8143 | New Zealand First Party | 6523
+Northland | KING, Matt | 3812 | DemocracyNZ | 784
+Northland | LYE, Jeffrey | 677 | Aotearoa Legalise Cannabis Party | 307
+Northland | McCALLUM, Grant | 16272 | National Party | 16418
+Northland | PENNEY, Reina Tuai | 2424 | Green Party | 3705
+Northland | PRIME, Willow-Jean | 10185 | Labour Party | 10211
+Northland |  |  | Animal Justice Party | 114
+Northland |  |  | Freedoms NZ | 208
+Northland |  |  | Leighton Baker Party | 57
+Northland |  |  | New Conservatives | 64
+Northland |  |  | New Nation Party | 64
+Northland |  |  | NewZeal | 280
+Northland |  |  | Te Pāti Māori | 716
+Northland |  |  | The Opportunities Party (TOP) | 577
+Northland |  |  | Women’s Rights Party | 41
+Hauraki-Waikato | MAHUTA, Nanaia | 10028 | Labour Party | 11508
+Hauraki-Waikato | MAIPI-CLARKE, Hana-Rawhiti | 12939 | Te Pāti Māori | 8503
+Hauraki-Waikato | POKERE-PHILLIPS, Donna | 1220 |  | 
+Hauraki-Waikato |  |  | ACT New Zealand | 294
+Hauraki-Waikato |  |  | Animal Justice Party | 14
+Hauraki-Waikato |  |  | Aotearoa Legalise Cannabis Party | 254
+Hauraki-Waikato |  |  | DemocracyNZ | 23
+Hauraki-Waikato |  |  | Freedoms NZ | 323
+Hauraki-Waikato |  |  | Green Party | 1893
+Hauraki-Waikato |  |  | Leighton Baker Party | 11
+Hauraki-Waikato |  |  | National Party | 1292
+Hauraki-Waikato |  |  | New Conservatives | 15
+Hauraki-Waikato |  |  | New Nation Party | 8
+Hauraki-Waikato |  |  | New Zealand First Party | 974
+Hauraki-Waikato |  |  | New Zealand Loyal | 310
+Hauraki-Waikato |  |  | NewZeal | 128
+Hauraki-Waikato |  |  | The Opportunities Party (TOP) | 186
+Hauraki-Waikato |  |  | Women’s Rights Party | 19
+Tauranga | BALDOCK, Larry | 1039 |  | 
+Tauranga | CROOKS, Justin | 2729 | Green Party | 3766
+Tauranga | HARVEY, Erika | 3403 | New Zealand First Party | 3753
+Tauranga | LANGRIDGE, Jono | 245 | New Conservatives | 101
+Tauranga | SAMUELS, Leon | 285 |  | 
+Tauranga | STOKMAN, Chelsea Jordan | 246 | Animal Justice Party | 85
+Tauranga | SYDNEY, Mikaere Taingahue | 613 | Te Pāti Māori | 440
+Tauranga | TINETTI, Jan | 9610 | Labour Party | 7664
+Tauranga | UFFINDELL, Sam | 18980 | National Party | 19345
+Tauranga | YOUNG, Christine | 3791 | ACT New Zealand | 4471
+Tauranga |  |  | Aotearoa Legalise Cannabis Party | 124
+Tauranga |  |  | DemocracyNZ | 66
+Tauranga |  |  | Freedoms NZ | 171
+Tauranga |  |  | Leighton Baker Party | 24
+Tauranga |  |  | New Nation Party | 39
+Tauranga |  |  | New Zealand Loyal | 470
+Tauranga |  |  | NewZeal | 463
+Tauranga |  |  | The Opportunities Party (TOP) | 935
+Tauranga |  |  | Women’s Rights Party | 35
+Mt Roskill | CHEUNG, Carlos | 15659 | National Party | 15828
+Mt Roskill | CHOPRA, Rahul | 2179 | ACT New Zealand | 2227
+Mt Roskill | SANIS WALGAMPOLA, Suveen | 3379 | Green Party | 4422
+Mt Roskill | WOOD, Michael Philip | 14094 | Labour Party | 10958
+Mt Roskill |  |  | Animal Justice Party | 49
+Mt Roskill |  |  | Aotearoa Legalise Cannabis Party | 97
+Mt Roskill |  |  | DemocracyNZ | 20
+Mt Roskill |  |  | Freedoms NZ | 93
+Mt Roskill |  |  | Leighton Baker Party | 4
+Mt Roskill |  |  | New Conservatives | 67
+Mt Roskill |  |  | New Nation Party | 9
+Mt Roskill |  |  | New Zealand First Party | 1294
+Mt Roskill |  |  | New Zealand Loyal | 131
+Mt Roskill |  |  | NewZeal | 196
+Mt Roskill |  |  | Te Pāti Māori | 289
+Mt Roskill |  |  | The Opportunities Party (TOP) | 765
+Mt Roskill |  |  | Women’s Rights Party | 24
+Rongotai | EMET, Atom | 216 | Animal Justice Party | 85
+Rongotai | FITZSIMONS, Fleur | 13869 | Labour Party | 13361
+Rongotai | GENTER, Julie Anne | 16586 | Green Party | 13664
+Rongotai | McDONALD, Don S | 130 |  | 
+Rongotai | McKEE, Nicole | 1179 | ACT New Zealand | 1680
+Rongotai | MILLS, Geoff | 860 | New Zealand First Party | 1411
+Rongotai | MUTHU, Karunā | 8794 | National Party | 9088
+Rongotai | ROA, Merania | 96 |  | 
+Rongotai | WELSH, Bruce | 275 | New Conservatives | 35
+Rongotai |  |  | Aotearoa Legalise Cannabis Party | 153
+Rongotai |  |  | DemocracyNZ | 21
+Rongotai |  |  | Freedoms NZ | 61
+Rongotai |  |  | Leighton Baker Party | 6
+Rongotai |  |  | New Nation Party | 13
+Rongotai |  |  | New Zealand Loyal | 126
+Rongotai |  |  | NewZeal | 67
+Rongotai |  |  | Te Pāti Māori | 1006
+Rongotai |  |  | The Opportunities Party (TOP) | 1792
+Rongotai |  |  | Women’s Rights Party | 46
+Maungakiekie | BRIDGE, Phillip | 249 |  | 
+Maungakiekie | CHUAH, Eric | 136 |  | 
+Maungakiekie | FLEMING, Greg | 16952 | National Party | 14935
+Maungakiekie | HOGG, Andrew | 920 | New Zealand First Party | 1379
+Maungakiekie | ONISHCHENKO, Margo | 1291 | ACT New Zealand | 2863
+Maungakiekie | RADHAKRISHNAN, Priyanca | 12335 | Labour Party | 9801
+Maungakiekie | SAMANT, Sapna | 3138 | Green Party | 4964
+Maungakiekie |  |  | Animal Justice Party | 51
+Maungakiekie |  |  | Aotearoa Legalise Cannabis Party | 111
+Maungakiekie |  |  | DemocracyNZ | 25
+Maungakiekie |  |  | Freedoms NZ | 89
+Maungakiekie |  |  | Leighton Baker Party | 5
+Maungakiekie |  |  | New Conservatives | 45
+Maungakiekie |  |  | New Nation Party | 7
+Maungakiekie |  |  | New Zealand Loyal | 157
+Maungakiekie |  |  | NewZeal | 142
+Maungakiekie |  |  | Te Pāti Māori | 336
+Maungakiekie |  |  | The Opportunities Party (TOP) | 952
+Maungakiekie |  |  | Women’s Rights Party | 30
+Waimakariri | BAKER, Leighton | 1815 | Leighton Baker Party | 302
+Waimakariri | CAMPBELL, Ross Eric | 2066 | ACT New Zealand | 4941
+Waimakariri | DOOCEY, Matt | 26816 | National Party | 19969
+Waimakariri | MALCOLM, Gordon | 1530 | DemocracyNZ | 461
+Waimakariri | ROSEWARNE, Dan | 13806 | Labour Party | 11317
+Waimakariri |  |  | Animal Justice Party | 102
+Waimakariri |  |  | Aotearoa Legalise Cannabis Party | 179
+Waimakariri |  |  | Freedoms NZ | 82
+Waimakariri |  |  | Green Party | 3996
+Waimakariri |  |  | New Conservatives | 108
+Waimakariri |  |  | New Nation Party | 20
+Waimakariri |  |  | New Zealand First Party | 3285
+Waimakariri |  |  | New Zealand Loyal | 440
+Waimakariri |  |  | NewZeal | 199
+Waimakariri |  |  | Te Pāti Māori | 238
+Waimakariri |  |  | The Opportunities Party (TOP) | 1034
+Waimakariri |  |  | Women’s Rights Party | 48
+Wigram | ANDERSON, Blair | 696 | Aotearoa Legalise Cannabis Party | 201
+Wigram | CULLIMORE, Debra Marie | 284 | Leighton Baker Party | 66
+Wigram | HANSEN, Tubby | 74 |  | 
+Wigram | LYNN, Ankita | 1520 | ACT New Zealand | 2465
+Wigram | McTAGUE, Geoff | 118 |  | 
+Wigram | SUMMERFIELD, Tracy | 14403 | National Party | 13401
+Wigram | THOMSON, Wiremu | 125 |  | 
+Wigram | VAN DUIVENBODEN, Christine | 392 | New Zealand Loyal | 253
+Wigram | WESLEY, Richard | 3780 | Green Party | 5634
+Wigram | WOODS, Megan | 15590 | Labour Party | 11249
+Wigram |  |  | Animal Justice Party | 95
+Wigram |  |  | DemocracyNZ | 65
+Wigram |  |  | Freedoms NZ | 59
+Wigram |  |  | New Conservatives | 104
+Wigram |  |  | New Nation Party | 29
+Wigram |  |  | New Zealand First Party | 1922
+Wigram |  |  | NewZeal | 189
+Wigram |  |  | Te Pāti Māori | 316
+Wigram |  |  | The Opportunities Party (TOP) | 1783
+Wigram |  |  | Women’s Rights Party | 37
+Banks Peninsula | ALLINGTON, Doug | 474 | DemocracyNZ | 146
+Banks Peninsula | JEET, Paran | 369 | Animal Justice Party | 111
+Banks Peninsula | KERSLAKE, Lindsay | 1598 | New Zealand First Party | 2658
+Banks Peninsula | McLELLAN, Tracey | 17464 | Labour Party | 13200
+Banks Peninsula | MEAD, Lisa Marie | 544 | NewZeal | 323
+Banks Peninsula | PHAM, Lan | 8325 | Green Party | 9763
+Banks Peninsula | TRASK, Laura | 2073 | ACT New Zealand | 3919
+Banks Peninsula | WAKEMAN, Peter Keith | 184 |  | 
+Banks Peninsula | WEENINK, Vanessa | 17860 | National Party | 15839
+Banks Peninsula |  |  | Aotearoa Legalise Cannabis Party | 182
+Banks Peninsula |  |  | Freedoms NZ | 61
+Banks Peninsula |  |  | Leighton Baker Party | 53
+Banks Peninsula |  |  | New Conservatives | 62
+Banks Peninsula |  |  | New Nation Party | 22
+Banks Peninsula |  |  | New Zealand Loyal | 389
+Banks Peninsula |  |  | Te Pāti Māori | 388
+Banks Peninsula |  |  | The Opportunities Party (TOP) | 2401
+Banks Peninsula |  |  | Women’s Rights Party | 42
+Nelson | BAILLIE, Chris | 2693 | ACT New Zealand | 4428
+Nelson | BOYACK, Rachel Elizabeth | 17533 | Labour Party | 12520
+Nelson | CAMERON, Blair | 17504 | National Party | 13856
+Nelson | DYER, Bruce | 167 |  | 
+Nelson | HOBBS, Jace | 2786 | Green Party | 6154
+Nelson | VAUGHAN, Peter | 1314 | New Zealand Loyal | 642
+Nelson |  |  | Animal Justice Party | 75
+Nelson |  |  | Aotearoa Legalise Cannabis Party | 187
+Nelson |  |  | DemocracyNZ | 100
+Nelson |  |  | Freedoms NZ | 263
+Nelson |  |  | Leighton Baker Party | 31
+Nelson |  |  | New Conservatives | 82
+Nelson |  |  | New Nation Party | 15
+Nelson |  |  | New Zealand First Party | 2612
+Nelson |  |  | NewZeal | 290
+Nelson |  |  | Te Pāti Māori | 343
+Nelson |  |  | The Opportunities Party (TOP) | 1058
+Nelson |  |  | Women’s Rights Party | 50
+Mana | BHARGAVA, Kush | 188 |  | 
+Mana | BROWN, Lily | 1195 | ACT New Zealand | 2250
+Mana | DAO-MCLAY, Gina | 4200 | Green Party | 6297
+Mana | EDMONDS, Barbara | 20197 | Labour Party | 16016
+Mana | FOSTER, Andy | 1849 | New Zealand First Party | 2215
+Mana | GOODE, Richard | 105 |  | 
+Mana | HUGHES, Frances | 12825 | National Party | 12084
+Mana | TEMPERTON, Lisa | 586 | New Zealand Loyal | 300
+Mana |  |  | Animal Justice Party | 86
+Mana |  |  | Aotearoa Legalise Cannabis Party | 161
+Mana |  |  | DemocracyNZ | 52
+Mana |  |  | Freedoms NZ | 110
+Mana |  |  | Leighton Baker Party | 13
+Mana |  |  | New Conservatives | 46
+Mana |  |  | New Nation Party | 17
+Mana |  |  | NewZeal | 275
+Mana |  |  | Te Pāti Māori | 792
+Mana |  |  | The Opportunities Party (TOP) | 1158
+Mana |  |  | Women’s Rights Party | 46
+Northcote | BIDOIS, Dan | 20807 | National Party | 16975
+Northcote | DONALDSON, Mark | 186 |  | 
+Northcote | FOLEY, Leo George | 962 | ACT New Zealand | 3381
+Northcote | HALBERT, Shanan | 11537 | Labour Party | 9014
+Northcote | SHAW, Andrew | 3341 | Green Party | 5548
+Northcote | WARREN, Michelle | 1048 | New Zealand First Party | 1641
+Northcote |  |  | Animal Justice Party | 81
+Northcote |  |  | Aotearoa Legalise Cannabis Party | 118
+Northcote |  |  | DemocracyNZ | 38
+Northcote |  |  | Freedoms NZ | 103
+Northcote |  |  | Leighton Baker Party | 8
+Northcote |  |  | New Conservatives | 54
+Northcote |  |  | New Nation Party | 14
+Northcote |  |  | New Zealand Loyal | 216
+Northcote |  |  | NewZeal | 139
+Northcote |  |  | Te Pāti Māori | 295
+Northcote |  |  | The Opportunities Party (TOP) | 1208
+Northcote |  |  | Women’s Rights Party | 38
+Rotorua | BLACK-VERCOE, Kariana | 1252 | NewZeal | 491
+Rotorua | McCLAY, Todd | 19339 | National Party | 15317
+Rotorua | NAERA, Jonn | 354 |  | 
+Rotorua | RAUKAWA-TAIT, Merepeka | 2731 | Te Pāti Māori | 851
+Rotorua | ROZEBOOM, Marten | 1732 | ACT New Zealand | 3543
+Rotorua | SANDFORD, Ben | 10416 | Labour Party | 8922
+Rotorua |  |  | Animal Justice Party | 54
+Rotorua |  |  | Aotearoa Legalise Cannabis Party | 177
+Rotorua |  |  | DemocracyNZ | 107
+Rotorua |  |  | Freedoms NZ | 233
+Rotorua |  |  | Green Party | 2885
+Rotorua |  |  | Leighton Baker Party | 28
+Rotorua |  |  | New Conservatives | 50
+Rotorua |  |  | New Nation Party | 35
+Rotorua |  |  | New Zealand First Party | 2835
+Rotorua |  |  | New Zealand Loyal | 618
+Rotorua |  |  | The Opportunities Party (TOP) | 638
+Rotorua |  |  | Women’s Rights Party | 33
+Napier | DICKEY, Julienne | 2190 | Green Party | 3476
+Napier | HUTCHINSON, Mark | 12474 | Labour Party | 10810
+Napier | LANGFORD, Martin | 765 | DemocracyNZ | 205
+Napier | MILEWSKI, Pawel | 1211 | ACT New Zealand | 4503
+Napier | NIMON, Katie | 21344 | National Party | 16670
+Napier | SMITH, John Clive | 258 |  | 
+Napier | TURNBULL, Laurie | 1729 | New Zealand First Party | 2794
+Napier |  |  | Animal Justice Party | 69
+Napier |  |  | Aotearoa Legalise Cannabis Party | 199
+Napier |  |  | Freedoms NZ | 79
+Napier |  |  | Leighton Baker Party | 26
+Napier |  |  | New Conservatives | 44
+Napier |  |  | New Nation Party | 18
+Napier |  |  | New Zealand Loyal | 514
+Napier |  |  | NewZeal | 215
+Napier |  |  | Te Pāti Māori | 380
+Napier |  |  | The Opportunities Party (TOP) | 621
+Napier |  |  | Women’s Rights Party | 36
+Te Tai Hauāuru | HIPANGO, Harete | 1382 | National Party | 1215
+Te Tai Hauāuru | NGAREWA-PACKER, Debbie | 16358 | Te Pāti Māori | 9674
+Te Tai Hauāuru | PEKE-MASON, Soraya | 7136 | Labour Party | 11050
+Te Tai Hauāuru | WINIATA, Paris | 689 |  | 
+Te Tai Hauāuru |  |  | ACT New Zealand | 281
+Te Tai Hauāuru |  |  | Animal Justice Party | 29
+Te Tai Hauāuru |  |  | Aotearoa Legalise Cannabis Party | 299
+Te Tai Hauāuru |  |  | DemocracyNZ | 29
+Te Tai Hauāuru |  |  | Freedoms NZ | 209
+Te Tai Hauāuru |  |  | Green Party | 2122
+Te Tai Hauāuru |  |  | Leighton Baker Party | 18
+Te Tai Hauāuru |  |  | New Conservatives | 16
+Te Tai Hauāuru |  |  | New Nation Party | 6
+Te Tai Hauāuru |  |  | New Zealand First Party | 1135
+Te Tai Hauāuru |  |  | New Zealand Loyal | 343
+Te Tai Hauāuru |  |  | NewZeal | 132
+Te Tai Hauāuru |  |  | The Opportunities Party (TOP) | 185
+Te Tai Hauāuru |  |  | Women’s Rights Party | 20
+New Lynn | ABEL, Steve | 5376 | Green Party | 6859
+New Lynn | ALVAREZ DE LUGO, Juan | 2301 | ACT New Zealand | 3183
+New Lynn | GARCIA, Paulo | 15886 | National Party | 15287
+New Lynn | MANN, Phineas | 216 |  | 
+New Lynn | OLIVER, Steve | 1148 | New Zealand Loyal | 454
+New Lynn | RUSSELL, Deborah | 14873 | Labour Party | 11020
+New Lynn |  |  | Animal Justice Party | 69
+New Lynn |  |  | Aotearoa Legalise Cannabis Party | 152
+New Lynn |  |  | DemocracyNZ | 72
+New Lynn |  |  | Freedoms NZ | 104
+New Lynn |  |  | Leighton Baker Party | 7
+New Lynn |  |  | New Conservatives | 60
+New Lynn |  |  | New Nation Party | 15
+New Lynn |  |  | New Zealand First Party | 2020
+New Lynn |  |  | NewZeal | 221
+New Lynn |  |  | Te Pāti Māori | 502
+New Lynn |  |  | The Opportunities Party (TOP) | 903
+New Lynn |  |  | Women’s Rights Party | 40
+Wellington Central | ALBERT, Natalia | 1554 | The Opportunities Party (TOP) | 2536
+Wellington Central | APPLEBY, Michael George | 418 | Aotearoa Legalise Cannabis Party | 136
+Wellington Central | ARNEIL, Taylor | 493 | New Zealand First Party | 1029
+Wellington Central | BAINS, Pete | 36 |  | 
+Wellington Central | FRANKS, Don | 67 |  | 
+Wellington Central | GEIRINGER, Karl Thomas | 43 |  | 
+Wellington Central | GORDON, Christopher | 111 | Animal Justice Party | 61
+Wellington Central | LIM, Meg | 80 |  | 
+Wellington Central | OMER, Ibrahim | 12373 | Labour Party | 11436
+Wellington Central | PAUL, Tamatha | 18439 | Green Party | 17332
+Wellington Central | SHEERAN, Scott | 11555 | National Party | 9855
+Wellington Central |  |  | ACT New Zealand | 2075
+Wellington Central |  |  | DemocracyNZ | 18
+Wellington Central |  |  | Freedoms NZ | 32
+Wellington Central |  |  | Leighton Baker Party | 11
+Wellington Central |  |  | New Conservatives | 31
+Wellington Central |  |  | New Nation Party | 14
+Wellington Central |  |  | New Zealand Loyal | 80
+Wellington Central |  |  | NewZeal | 57
+Wellington Central |  |  | Te Pāti Māori | 1106
+Wellington Central |  |  | Women’s Rights Party | 54
+Kaipara ki Mahurangi | BAILEY, Brent | 2970 | ACT New Zealand | 6011
+Kaipara ki Mahurangi | BREWER, Sarah | 1292 | DemocracyNZ | 300
+Kaipara ki Mahurangi | BROWN, Zephyr | 4739 | Green Party | 4767
+Kaipara ki Mahurangi | MARCROFT, Jenny | 2531 | New Zealand First Party | 3311
+Kaipara ki Mahurangi | PENK, Chris | 28281 | National Party | 23725
+Kaipara ki Mahurangi | WISHART, Guy | 8822 | Labour Party | 8450
+Kaipara ki Mahurangi |  |  | Animal Justice Party | 113
+Kaipara ki Mahurangi |  |  | Aotearoa Legalise Cannabis Party | 186
+Kaipara ki Mahurangi |  |  | Freedoms NZ | 126
+Kaipara ki Mahurangi |  |  | Leighton Baker Party | 24
+Kaipara ki Mahurangi |  |  | New Conservatives | 75
+Kaipara ki Mahurangi |  |  | New Nation Party | 31
+Kaipara ki Mahurangi |  |  | New Zealand Loyal | 874
+Kaipara ki Mahurangi |  |  | NewZeal | 365
+Kaipara ki Mahurangi |  |  | Te Pāti Māori | 338
+Kaipara ki Mahurangi |  |  | The Opportunities Party (TOP) | 914
+Kaipara ki Mahurangi |  |  | Women’s Rights Party | 44
+West Coast-Tasman | FARRELLY, Jackie | 1799 | New Zealand First Party | 4154
+West Coast-Tasman | GREY, Sue | 1554 |  | 
+West Coast-Tasman | LILLEY, Kelly | 2520 | ACT New Zealand | 5488
+West Coast-Tasman | MARINKOVICH, Sebastian | 1370 | New Zealand Loyal | 1489
+West Coast-Tasman | O&#39;CONNOR, Damien | 12300 | Labour Party | 9970
+West Coast-Tasman | OSMASTON, Richard | 88 |  | 
+West Coast-Tasman | PHELPS, Patrick Sean | 5903 |  | 
+West Coast-Tasman | PUGH, Maureen | 13317 | National Party | 14042
+West Coast-Tasman | RICHARDS, Steve | 2743 | Green Party | 4521
+West Coast-Tasman |  |  | Animal Justice Party | 99
+West Coast-Tasman |  |  | Aotearoa Legalise Cannabis Party | 281
+West Coast-Tasman |  |  | DemocracyNZ | 136
+West Coast-Tasman |  |  | Freedoms NZ | 289
+West Coast-Tasman |  |  | Leighton Baker Party | 40
+West Coast-Tasman |  |  | New Conservatives | 63
+West Coast-Tasman |  |  | New Nation Party | 19
+West Coast-Tasman |  |  | NewZeal | 254
+West Coast-Tasman |  |  | Te Pāti Māori | 290
+West Coast-Tasman |  |  | The Opportunities Party (TOP) | 792
+West Coast-Tasman |  |  | Women’s Rights Party | 46
+East Coast Bays | ADAMS, Paul | 890 | NewZeal | 409
+East Coast Bays | CHEN, Naisi | 7334 | Labour Party | 5716
+East Coast Bays | DYET, Bill | 710 | New Zealand Loyal | 386
+East Coast Bays | McCOOK, Michael | 1584 | ACT New Zealand | 3774
+East Coast Bays | STANFORD, Erica | 27687 | National Party | 22508
+East Coast Bays |  |  | Animal Justice Party | 62
+East Coast Bays |  |  | Aotearoa Legalise Cannabis Party | 105
+East Coast Bays |  |  | DemocracyNZ | 34
+East Coast Bays |  |  | Freedoms NZ | 51
+East Coast Bays |  |  | Green Party | 3462
+East Coast Bays |  |  | Leighton Baker Party | 7
+East Coast Bays |  |  | New Conservatives | 58
+East Coast Bays |  |  | New Nation Party | 24
+East Coast Bays |  |  | New Zealand First Party | 1532
+East Coast Bays |  |  | Te Pāti Māori | 137
+East Coast Bays |  |  | The Opportunities Party (TOP) | 646
+East Coast Bays |  |  | Women’s Rights Party | 32
+Te Tai Tokerau | DAVIS, Kelvin | 9911 | Labour Party | 12653
+Te Tai Tokerau | HERBERT, Maki | 1923 | Aotearoa Legalise Cannabis Party | 468
+Te Tai Tokerau | KAPA-KINGI, Mariameno | 10428 | Te Pāti Māori | 7690
+Te Tai Tokerau | LYNDON, Hūhana | 4187 | Green Party | 2731
+Te Tai Tokerau | TOAUTU, Paturiri | 443 |  | 
+Te Tai Tokerau |  |  | ACT New Zealand | 307
+Te Tai Tokerau |  |  | Animal Justice Party | 28
+Te Tai Tokerau |  |  | DemocracyNZ | 72
+Te Tai Tokerau |  |  | Freedoms NZ | 245
+Te Tai Tokerau |  |  | Leighton Baker Party | 12
+Te Tai Tokerau |  |  | National Party | 1545
+Te Tai Tokerau |  |  | New Conservatives | 10
+Te Tai Tokerau |  |  | New Nation Party | 6
+Te Tai Tokerau |  |  | New Zealand First Party | 1917
+Te Tai Tokerau |  |  | New Zealand Loyal | 401
+Te Tai Tokerau |  |  | NewZeal | 161
+Te Tai Tokerau |  |  | The Opportunities Party (TOP) | 211
+Te Tai Tokerau |  |  | Women’s Rights Party | 16
+Rangitata | BALLANTYNE, Robert | 2159 | New Zealand First Party | 3010
+Rangitata | CLARKSON, Michael | 170 |  | 
+Rangitata | GILCHRIST, Barbara | 1784 | Green Party | 2351
+Rangitata | LUXTON, Jo | 11946 | Labour Party | 10660
+Rangitata | MEAGER, James | 22792 | National Party | 18167
+Rangitata | SHEARER, Wayne | 755 | New Zealand Loyal | 586
+Rangitata | THOMAS, Karl | 310 | New Conservatives | 148
+Rangitata | Van AMERSFOORT, Dolf | 92 | New Nation Party | 55
+Rangitata |  |  | ACT New Zealand | 4082
+Rangitata |  |  | Animal Justice Party | 62
+Rangitata |  |  | Aotearoa Legalise Cannabis Party | 211
+Rangitata |  |  | DemocracyNZ | 123
+Rangitata |  |  | Freedoms NZ | 68
+Rangitata |  |  | Leighton Baker Party | 75
+Rangitata |  |  | NewZeal | 148
+Rangitata |  |  | Te Pāti Māori | 156
+Rangitata |  |  | The Opportunities Party (TOP) | 522
+Rangitata |  |  | Women’s Rights Party | 37
+Christchurch East | AHMED, Sahra | 4594 | Green Party | 5675
+Christchurch East | DAVIDSON, Reuben | 15163 | Labour Party | 13418
+Christchurch East | HOUGHTON, Helen | 615 | New Conservatives | 175
+Christchurch East | LAMBERT, Paula | 901 | Aotearoa Legalise Cannabis Party | 223
+Christchurch East | PARK, Sam | 234 |  | 
+Christchurch East | SEVERIN, Toni | 1679 | ACT New Zealand | 2786
+Christchurch East | STOCK, Matt | 12766 | National Party | 11208
+Christchurch East | WERETA, Danette | 353 | Animal Justice Party | 114
+Christchurch East | WIREMU, Shane | 2030 | New Zealand First Party | 2676
+Christchurch East |  |  | DemocracyNZ | 106
+Christchurch East |  |  | Freedoms NZ | 114
+Christchurch East |  |  | Leighton Baker Party | 118
+Christchurch East |  |  | New Nation Party | 24
+Christchurch East |  |  | New Zealand Loyal | 402
+Christchurch East |  |  | NewZeal | 205
+Christchurch East |  |  | Te Pāti Māori | 415
+Christchurch East |  |  | The Opportunities Party (TOP) | 1339
+Christchurch East |  |  | Women’s Rights Party | 46
+Papakura | COLLINS, Judith | 24079 | National Party | 22042
+Papakura | HARVEY, Kathy | 443 |  | 
+Papakura | KANONGATA&#39;A, Anahila | 10620 | Labour Party | 8893
+Papakura | KERR, Karin | 428 |  | 
+Papakura | KOUKA, Donna | 636 | New Zealand Loyal | 418
+Papakura | McCORMICK, Mike | 3121 | ACT New Zealand | 4264
+Papakura | MONDS, Robert | 1728 | New Zealand First Party | 2238
+Papakura |  |  | Animal Justice Party | 61
+Papakura |  |  | Aotearoa Legalise Cannabis Party | 162
+Papakura |  |  | DemocracyNZ | 62
+Papakura |  |  | Freedoms NZ | 210
+Papakura |  |  | Green Party | 2710
+Papakura |  |  | Leighton Baker Party | 11
+Papakura |  |  | New Conservatives | 55
+Papakura |  |  | New Nation Party | 19
+Papakura |  |  | NewZeal | 260
+Papakura |  |  | Te Pāti Māori | 451
+Papakura |  |  | The Opportunities Party (TOP) | 542
+Papakura |  |  | Women’s Rights Party | 33
+Botany | ARMSTRONG, John | 624 | New Zealand Loyal | 280
+Botany | BURNS, Bo | 1959 | ACT New Zealand | 2788
+Botany | DE BOER, Dieuwe | 300 | New Conservatives | 86
+Botany | LUXON, Christopher | 24769 | National Party | 22239
+Botany | McNEIL, Robert | 428 | Animal Justice Party | 98
+Botany | SINGH, Kharag | 8432 | Labour Party | 7708
+Botany |  |  | Aotearoa Legalise Cannabis Party | 106
+Botany |  |  | DemocracyNZ | 29
+Botany |  |  | Freedoms NZ | 127
+Botany |  |  | Green Party | 2212
+Botany |  |  | Leighton Baker Party | 12
+Botany |  |  | New Nation Party | 37
+Botany |  |  | New Zealand First Party | 1136
+Botany |  |  | NewZeal | 156
+Botany |  |  | Te Pāti Māori | 188
+Botany |  |  | The Opportunities Party (TOP) | 439
+Botany |  |  | Women’s Rights Party | 27
+Manurewa | KILARI, Siva | 9148 | National Party | 8808
+Manurewa | MCLEAN, Rangi | 1604 | Te Pāti Māori | 632
+Manurewa | WARREN, Caine | 991 |  | 
+Manurewa | WILLIAMS, Arena | 16261 | Labour Party | 15623
+Manurewa |  |  | ACT New Zealand | 806
+Manurewa |  |  | Animal Justice Party | 48
+Manurewa |  |  | Aotearoa Legalise Cannabis Party | 136
+Manurewa |  |  | DemocracyNZ | 18
+Manurewa |  |  | Freedoms NZ | 362
+Manurewa |  |  | Green Party | 1777
+Manurewa |  |  | Leighton Baker Party | 14
+Manurewa |  |  | New Conservatives | 56
+Manurewa |  |  | New Nation Party | 39
+Manurewa |  |  | New Zealand First Party | 1037
+Manurewa |  |  | New Zealand Loyal | 137
+Manurewa |  |  | NewZeal | 233
+Manurewa |  |  | The Opportunities Party (TOP) | 179
+Manurewa |  |  | Women’s Rights Party | 39
+Epsom | BELICH, Camilla | 6189 | Labour Party | 5945
+Epsom | GOLDSMITH, Paul | 9684 | National Party | 20948
+Epsom | ROTHERAY, Anna | 164 | New Zealand Loyal | 123
+Epsom | SEYMOUR, David Breen | 17826 | ACT New Zealand | 5041
+Epsom | SU, Nina | 1803 | The Opportunities Party (TOP) | 1307
+Epsom | UNKOVICH, Tanya Marie | 573 | New Zealand First Party | 1059
+Epsom | XU-NAN, Lawrence Xi | 3537 | Green Party | 5507
+Epsom |  |  | Animal Justice Party | 46
+Epsom |  |  | Aotearoa Legalise Cannabis Party | 66
+Epsom |  |  | DemocracyNZ | 16
+Epsom |  |  | Freedoms NZ | 34
+Epsom |  |  | Leighton Baker Party | 2
+Epsom |  |  | New Conservatives | 28
+Epsom |  |  | New Nation Party | 5
+Epsom |  |  | NewZeal | 76
+Epsom |  |  | Te Pāti Māori | 299
+Epsom |  |  | Women’s Rights Party | 26
+Panmure-Ōtāhuhu | COLLINS, Fa&#39;anānā Efeso | 4312 | Green Party | 2601
+Panmure-Ōtāhuhu | MODKOVA, Antonia | 1238 | ACT New Zealand | 1100
+Panmure-Ōtāhuhu | MOKARAKA, Karl | 387 |  | 
+Panmure-Ōtāhuhu | RANDHAWA, Navtej | 7388 | National Party | 8074
+Panmure-Ōtāhuhu | ROBB, James | 235 |  | 
+Panmure-Ōtāhuhu | SALESA, Jenny | 15358 | Labour Party | 16024
+Panmure-Ōtāhuhu |  |  | Animal Justice Party | 50
+Panmure-Ōtāhuhu |  |  | Aotearoa Legalise Cannabis Party | 133
+Panmure-Ōtāhuhu |  |  | DemocracyNZ | 20
+Panmure-Ōtāhuhu |  |  | Freedoms NZ | 222
+Panmure-Ōtāhuhu |  |  | Leighton Baker Party | 7
+Panmure-Ōtāhuhu |  |  | New Conservatives | 37
+Panmure-Ōtāhuhu |  |  | New Nation Party | 13
+Panmure-Ōtāhuhu |  |  | New Zealand First Party | 1001
+Panmure-Ōtāhuhu |  |  | New Zealand Loyal | 124
+Panmure-Ōtāhuhu |  |  | NewZeal | 187
+Panmure-Ōtāhuhu |  |  | Te Pāti Māori | 410
+Panmure-Ōtāhuhu |  |  | The Opportunities Party (TOP) | 369
+Panmure-Ōtāhuhu |  |  | Women’s Rights Party | 33
+North Shore | BASKETT, Pat | 3663 | Green Party | 4851
+North Shore | GRAY, Abe | 1229 | The Opportunities Party (TOP) | 1055
+North Shore | HAMPTON, George | 8562 | Labour Party | 7318
+North Shore | WATTS, Simon | 24892 | National Party | 21050
+North Shore | YALLOP, Anna | 2061 | ACT New Zealand | 4540
+North Shore |  |  | Animal Justice Party | 48
+North Shore |  |  | Aotearoa Legalise Cannabis Party | 111
+North Shore |  |  | DemocracyNZ | 35
+North Shore |  |  | Freedoms NZ | 53
+North Shore |  |  | Leighton Baker Party | 7
+North Shore |  |  | New Conservatives | 53
+North Shore |  |  | New Nation Party | 24
+North Shore |  |  | New Zealand First Party | 1604
+North Shore |  |  | New Zealand Loyal | 209
+North Shore |  |  | NewZeal | 133
+North Shore |  |  | Te Pāti Māori | 207
+North Shore |  |  | Women’s Rights Party | 42
+Ikaroa-Rāwhiti | TANGAERE-MANUEL, Cushla | 13678 | Labour Party | 14703
+Ikaroa-Rāwhiti | TUHAKARAINA, Ata | 784 |  | 
+Ikaroa-Rāwhiti | WHAITIRI, Meka | 10835 | Te Pāti Māori | 6700
+Ikaroa-Rāwhiti |  |  | ACT New Zealand | 207
+Ikaroa-Rāwhiti |  |  | Animal Justice Party | 27
+Ikaroa-Rāwhiti |  |  | Aotearoa Legalise Cannabis Party | 276
+Ikaroa-Rāwhiti |  |  | DemocracyNZ | 26
+Ikaroa-Rāwhiti |  |  | Freedoms NZ | 167
+Ikaroa-Rāwhiti |  |  | Green Party | 1792
+Ikaroa-Rāwhiti |  |  | Leighton Baker Party | 9
+Ikaroa-Rāwhiti |  |  | National Party | 960
+Ikaroa-Rāwhiti |  |  | New Conservatives | 16
+Ikaroa-Rāwhiti |  |  | New Nation Party | 9
+Ikaroa-Rāwhiti |  |  | New Zealand First Party | 928
+Ikaroa-Rāwhiti |  |  | New Zealand Loyal | 258
+Ikaroa-Rāwhiti |  |  | NewZeal | 179
+Ikaroa-Rāwhiti |  |  | The Opportunities Party (TOP) | 139
+Ikaroa-Rāwhiti |  |  | Women’s Rights Party | 18
+Upper Harbour | BREWER, Cameron | 21498 | National Party | 20689
+Upper Harbour | CHHOUR, Karen | 2313 | ACT New Zealand | 3483
+Upper Harbour | CORBETT, Tony | 83 |  | 
+Upper Harbour | DOYLE, Thea | 3018 | Green Party | 3872
+Upper Harbour | NAVOT, Shai | 1109 | The Opportunities Party (TOP) | 884
+Upper Harbour | NEWMAN, Chris | 387 | New Zealand Loyal | 275
+Upper Harbour | SOARES, Bernadette | 137 |  | 
+Upper Harbour | WALTERS, Vanushi | 10306 | Labour Party | 9314
+Upper Harbour | WILSON, David Ashley | 1330 | New Zealand First Party | 1671
+Upper Harbour |  |  | Animal Justice Party | 48
+Upper Harbour |  |  | Aotearoa Legalise Cannabis Party | 141
+Upper Harbour |  |  | DemocracyNZ | 33
+Upper Harbour |  |  | Freedoms NZ | 92
+Upper Harbour |  |  | Leighton Baker Party | 12
+Upper Harbour |  |  | New Conservatives | 93
+Upper Harbour |  |  | New Nation Party | 4
+Upper Harbour |  |  | NewZeal | 207
+Upper Harbour |  |  | Te Pāti Māori | 328
+Upper Harbour |  |  | Women’s Rights Party | 31
+Waiariki | BOYNTON, Toni | 5609 | Labour Party | 12892
+Waiariki | HUNIA, Charles Tiki | 1067 |  | 
+Waiariki | WAITITI, Rawiri | 21500 | Te Pāti Māori | 11300
+Waiariki |  |  | ACT New Zealand | 221
+Waiariki |  |  | Animal Justice Party | 24
+Waiariki |  |  | Aotearoa Legalise Cannabis Party | 245
+Waiariki |  |  | DemocracyNZ | 31
+Waiariki |  |  | Freedoms NZ | 417
+Waiariki |  |  | Green Party | 1637
+Waiariki |  |  | Leighton Baker Party | 15
+Waiariki |  |  | National Party | 1003
+Waiariki |  |  | New Conservatives | 7
+Waiariki |  |  | New Nation Party | 4
+Waiariki |  |  | New Zealand First Party | 1109
+Waiariki |  |  | New Zealand Loyal | 241
+Waiariki |  |  | NewZeal | 150
+Waiariki |  |  | The Opportunities Party (TOP) | 159
+Waiariki |  |  | Women’s Rights Party | 30
+Rangitīkei | BUTT, Zulfiqar | 9160 | Labour Party | 8993
+Rangitīkei | HOGGARD, Andrew John | 5914 | ACT New Zealand | 5655
+Rangitīkei | LONG, Bernard | 3153 | Green Party | 3061
+Rangitīkei | REDMAYNE, Suze | 18945 | National Party | 17018
+Rangitīkei | VERMEULEN, Helma | 3167 | New Zealand First Party | 3768
+Rangitīkei |  |  | Animal Justice Party | 82
+Rangitīkei |  |  | Aotearoa Legalise Cannabis Party | 206
+Rangitīkei |  |  | DemocracyNZ | 142
+Rangitīkei |  |  | Freedoms NZ | 97
+Rangitīkei |  |  | Leighton Baker Party | 30
+Rangitīkei |  |  | New Conservatives | 73
+Rangitīkei |  |  | New Nation Party | 24
+Rangitīkei |  |  | New Zealand Loyal | 622
+Rangitīkei |  |  | NewZeal | 260
+Rangitīkei |  |  | Te Pāti Māori | 577
+Rangitīkei |  |  | The Opportunities Party (TOP) | 630
+Rangitīkei |  |  | Women’s Rights Party | 35
+Coromandel | ANSELL, Caleb | 3145 | New Zealand First Party | 4895
+Coromandel | COBB, Ray | 2315 | New Zealand Loyal | 1580
+Coromandel | GREALEY, Pamela | 4942 | Green Party | 3672
+Coromandel | RILEY, Beryl | 7900 | Labour Party | 9223
+Coromandel | SIMPSON, Scott | 24914 | National Party | 20206
+Coromandel | TEPOU, Sarai | 273 |  | 
+Coromandel | VERBURG, Joanna | 2725 | ACT New Zealand | 5588
+Coromandel |  |  | Animal Justice Party | 51
+Coromandel |  |  | Aotearoa Legalise Cannabis Party | 185
+Coromandel |  |  | DemocracyNZ | 99
+Coromandel |  |  | Freedoms NZ | 126
+Coromandel |  |  | Leighton Baker Party | 32
+Coromandel |  |  | New Conservatives | 43
+Coromandel |  |  | New Nation Party | 19
+Coromandel |  |  | NewZeal | 270
+Coromandel |  |  | Te Pāti Māori | 362
+Coromandel |  |  | The Opportunities Party (TOP) | 509
+Coromandel |  |  | Women’s Rights Party | 32
+Port Waikato | BAYLY, Andrew (poll cancelled) | 0 | National Party | 20757
+Port Waikato | BRIGHT, Scotty (poll cancelled) | 0 | DemocracyNZ | 232
+Port Waikato | BUCHANAN, Karla (poll cancelled) | 0 | Green Party | 2484
+Port Waikato | CHRISTENSEN, Neil (poll cancelled) | 0 | ACT New Zealand | 5107
+Port Waikato | COSTELLO, Casey (poll cancelled) | 0 | New Zealand First Party | 3075
+Port Waikato | KEEL, Gwendoline (poll cancelled) | 0 | Labour Party | 7918
+Port Waikato | RIPPON, Anna Joy (poll cancelled) | 0 | Animal Justice Party | 94
+Port Waikato | SUDHAMALLA, Vijay (poll cancelled) | 0 |  | 
+Port Waikato | TURNER, Kim (poll cancelled) | 0 | New Zealand Loyal | 546
+Port Waikato |  |  | Aotearoa Legalise Cannabis Party | 177
+Port Waikato |  |  | Freedoms NZ | 150
+Port Waikato |  |  | Leighton Baker Party | 532
+Port Waikato |  |  | New Conservatives | 82
+Port Waikato |  |  | New Nation Party | 107
+Port Waikato |  |  | NewZeal | 225
+Port Waikato |  |  | Te Pāti Māori | 392
+Port Waikato |  |  | The Opportunities Party (TOP) | 492
+Port Waikato |  |  | Women’s Rights Party | 29
+Dunedin | BROOKING, Rachel | 17111 | Labour Party | 13160
+Dunedin | ELDER, Cyndee | 160 | New Conservatives | 94
+Dunedin | HERNANDEZ, Francisco | 8031 | Green Party | 11449
+Dunedin | LANGEVELD, Keegan | 1304 | New Zealand First Party | 2396
+Dunedin | LAWTON, Steve | 540 | New Zealand Loyal | 402
+Dunedin | McDERMOTT, Adrian | 564 | Aotearoa Legalise Cannabis Party | 159
+Dunedin | NEWMAN, Tim | 1696 | ACT New Zealand | 2460
+Dunedin | O&#39;MALLEY, Jim | 1272 |  | 
+Dunedin | PETERS, Ben | 1891 | The Opportunities Party (TOP) | 1810
+Dunedin | TAYLOR, Pamela | 60 |  | 
+Dunedin | WOODHOUSE, Michael | 9131 | National Party | 9652
+Dunedin |  |  | Animal Justice Party | 57
+Dunedin |  |  | DemocracyNZ | 25
+Dunedin |  |  | Freedoms NZ | 44
+Dunedin |  |  | Leighton Baker Party | 19
+Dunedin |  |  | New Nation Party | 18
+Dunedin |  |  | NewZeal | 114
+Dunedin |  |  | Te Pāti Māori | 613
+Dunedin |  |  | Women’s Rights Party | 35
+Christchurch Central | ARNEIL, Mark | 1563 | New Zealand First Party | 2073
+Christchurch Central | BRITNELL, Michael | 680 | Aotearoa Legalise Cannabis Party | 174
+Christchurch Central | CARTER, Kahurangi | 5441 | Green Party | 7746
+Christchurch Central | FISKEN, Matthew Hunter | 1395 | ACT New Zealand | 2646
+Christchurch Central | JACKSON, Sarah | 376 | Animal Justice Party | 106
+Christchurch Central | STEPHENS, Dale Aotea | 13641 | National Party | 12403
+Christchurch Central | WEBB, Duncan | 15622 | Labour Party | 11357
+Christchurch Central |  |  | DemocracyNZ | 82
+Christchurch Central |  |  | Freedoms NZ | 71
+Christchurch Central |  |  | Leighton Baker Party | 51
+Christchurch Central |  |  | New Conservatives | 78
+Christchurch Central |  |  | New Nation Party | 36
+Christchurch Central |  |  | New Zealand Loyal | 253
+Christchurch Central |  |  | NewZeal | 108
+Christchurch Central |  |  | Te Pāti Māori | 405
+Christchurch Central |  |  | The Opportunities Party (TOP) | 2042
+Christchurch Central |  |  | Women’s Rights Party | 59
+New Plymouth | BENNETT, Glen | 15492 | Labour Party | 10442
+New Plymouth | McGECHAN, Bruce | 1957 | ACT New Zealand | 4388
+New Plymouth | MACLEOD, David | 22483 | National Party | 18208
+New Plymouth | ROBINSON, Greg | 252 | New Nation Party | 117
+New Plymouth | WATKINS, Hamish | 562 | Animal Justice Party | 88
+New Plymouth | WILLETTS, Warren | 1738 | New Zealand Loyal | 942
+New Plymouth |  |  | Aotearoa Legalise Cannabis Party | 202
+New Plymouth |  |  | DemocracyNZ | 54
+New Plymouth |  |  | Freedoms NZ | 149
+New Plymouth |  |  | Green Party | 3674
+New Plymouth |  |  | Leighton Baker Party | 24
+New Plymouth |  |  | New Conservatives | 54
+New Plymouth |  |  | New Zealand First Party | 3134
+New Plymouth |  |  | NewZeal | 180
+New Plymouth |  |  | Te Pāti Māori | 617
+New Plymouth |  |  | The Opportunities Party (TOP) | 848
+New Plymouth |  |  | Women’s Rights Party | 51
+Ōtaki | COSTLEY, Tim | 22145 | National Party | 16520
+Ōtaki | MUHAMMAD, Ali | 2946 | Green Party | 4703
+Ōtaki | NGOBI, Terisa | 15874 | Labour Party | 13709
+Ōtaki | RUSH, Sean Edward | 1327 | ACT New Zealand | 3306
+Ōtaki | TEN-HAVE, Bryan | 1078 | New Zealand Loyal | 637
+Ōtaki | WESSEX, Bob | 75 |  | 
+Ōtaki |  |  | Animal Justice Party | 89
+Ōtaki |  |  | Aotearoa Legalise Cannabis Party | 158
+Ōtaki |  |  | DemocracyNZ | 48
+Ōtaki |  |  | Freedoms NZ | 137
+Ōtaki |  |  | Leighton Baker Party | 17
+Ōtaki |  |  | New Conservatives | 52
+Ōtaki |  |  | New Nation Party | 20
+Ōtaki |  |  | New Zealand First Party | 3437
+Ōtaki |  |  | NewZeal | 210
+Ōtaki |  |  | Te Pāti Māori | 510
+Ōtaki |  |  | The Opportunities Party (TOP) | 692
+Ōtaki |  |  | Women’s Rights Party | 34
+Hutt South | ANDERSEN, Ginny | 17812 | Labour Party | 14087
+Hutt South | BISHOP, Chris | 19144 | National Party | 14772
+Hutt South | BLAKE, Jordan | 403 | New Zealand Loyal | 324
+Hutt South | DONOGHUE, Lee | 1228 | New Zealand First Party | 2257
+Hutt South | JENNINGS, Neelu | 2492 | Green Party | 6727
+Hutt South | PARKINS, Andy | 556 | ACT New Zealand | 2493
+Hutt South | RANGITUTIA, Max | 171 |  | 
+Hutt South | WYLIE-VAN EERD, Ben | 980 | The Opportunities Party (TOP) | 1448
+Hutt South |  |  | Animal Justice Party | 77
+Hutt South |  |  | Aotearoa Legalise Cannabis Party | 147
+Hutt South |  |  | DemocracyNZ | 53
+Hutt South |  |  | Freedoms NZ | 99
+Hutt South |  |  | Leighton Baker Party | 21
+Hutt South |  |  | New Conservatives | 50
+Hutt South |  |  | New Nation Party | 2
+Hutt South |  |  | NewZeal | 215
+Hutt South |  |  | Te Pāti Māori | 581
+Hutt South |  |  | Women’s Rights Party | 32
+Te Tai Tonga | FERRIS, Tākuta | 12828 | Te Pāti Māori | 6447
+Te Tai Tonga | FUIMAONO PUHI, Geoffrey Karena | 816 |  | 
+Te Tai Tonga | ROBIN, Rebecca | 2852 | Aotearoa Legalise Cannabis Party | 479
+Te Tai Tonga | TIRIKATENE, Rino | 10004 | Labour Party | 10396
+Te Tai Tonga |  |  | ACT New Zealand | 659
+Te Tai Tonga |  |  | Animal Justice Party | 50
+Te Tai Tonga |  |  | DemocracyNZ | 68
+Te Tai Tonga |  |  | Freedoms NZ | 156
+Te Tai Tonga |  |  | Green Party | 4605
+Te Tai Tonga |  |  | Leighton Baker Party | 50
+Te Tai Tonga |  |  | National Party | 2453
+Te Tai Tonga |  |  | New Conservatives | 11
+Te Tai Tonga |  |  | New Nation Party | 12
+Te Tai Tonga |  |  | New Zealand First Party | 1557
+Te Tai Tonga |  |  | New Zealand Loyal | 471
+Te Tai Tonga |  |  | NewZeal | 122
+Te Tai Tonga |  |  | The Opportunities Party (TOP) | 549
+Te Tai Tonga |  |  | Women’s Rights Party | 22
+Whanganui | ARNOLD, William | 3234 | New Zealand First Party | 4494
+Whanganui | BATES, Carl | 18389 | National Party | 14567
+Whanganui | DREDGE, Craig | 1683 | ACT New Zealand | 3749
+Whanganui | KYLE, Sandra | 402 | Animal Justice Party | 99
+Whanganui | LEWIS, Steph | 12972 | Labour Party | 11002
+Whanganui | SANSON, Marion | 2049 | Green Party | 2980
+Whanganui |  |  | Aotearoa Legalise Cannabis Party | 214
+Whanganui |  |  | DemocracyNZ | 77
+Whanganui |  |  | Freedoms NZ | 88
+Whanganui |  |  | Leighton Baker Party | 20
+Whanganui |  |  | New Conservatives | 105
+Whanganui |  |  | New Nation Party | 17
+Whanganui |  |  | New Zealand Loyal | 544
+Whanganui |  |  | NewZeal | 315
+Whanganui |  |  | Te Pāti Māori | 602
+Whanganui |  |  | The Opportunities Party (TOP) | 463
+Whanganui |  |  | Women’s Rights Party | 30
+Pakuranga | ALCOCK, John | 262 |  | 
+Pakuranga | BROWN, Simeon | 26105 | National Party | 21458
+Pakuranga | HANCOCK, Nicholas | 471 | Animal Justice Party | 96
+Pakuranga | HENRY, Nerissa | 7395 | Labour Party | 6124
+Pakuranga | PARMAR, Parmjeet | 1298 | ACT New Zealand | 3638
+Pakuranga | SCOTHERN, Phil | 490 | New Zealand Loyal | 236
+Pakuranga |  |  | Aotearoa Legalise Cannabis Party | 115
+Pakuranga |  |  | DemocracyNZ | 30
+Pakuranga |  |  | Freedoms NZ | 87
+Pakuranga |  |  | Green Party | 2650
+Pakuranga |  |  | Leighton Baker Party | 15
+Pakuranga |  |  | New Conservatives | 54
+Pakuranga |  |  | New Nation Party | 5
+Pakuranga |  |  | New Zealand First Party | 1397
+Pakuranga |  |  | NewZeal | 136
+Pakuranga |  |  | Te Pāti Māori | 184
+Pakuranga |  |  | The Opportunities Party (TOP) | 531
+Pakuranga |  |  | Women’s Rights Party | 27
+Kaikōura | ARBUCKLE, Jamie Arthur | 4347 | New Zealand First Party | 3819
+Kaikōura | BROWN, Shaun | 43 |  | 
+Kaikōura | CAMPBELL, Sandra | 509 | DemocracyNZ | 269
+Kaikōura | COLELLO, Natalie | 921 | New Zealand Loyal | 850
+Kaikōura | DEWHIRST, Emma | 9329 | Labour Party | 8714
+Kaikōura | GREENSLADE, David | 237 | New Conservatives | 111
+Kaikōura | GRIFFITHS, Keith | 2624 | ACT New Zealand | 5911
+Kaikōura | HOWARD, Ted | 109 |  | 
+Kaikōura | McCASKEY, John | 139 |  | 
+Kaikōura | McCUBBIN, Richard | 2512 | Green Party | 3282
+Kaikōura | SMITH, Stuart | 20741 | National Party | 17281
+Kaikōura |  |  | Animal Justice Party | 73
+Kaikōura |  |  | Aotearoa Legalise Cannabis Party | 176
+Kaikōura |  |  | Freedoms NZ | 97
+Kaikōura |  |  | Leighton Baker Party | 98
+Kaikōura |  |  | New Nation Party | 43
+Kaikōura |  |  | NewZeal | 261
+Kaikōura |  |  | Te Pāti Māori | 215
+Kaikōura |  |  | The Opportunities Party (TOP) | 703
+Kaikōura |  |  | Women’s Rights Party | 36
+Māngere | ALAILIMA, Fuiavailili | 535 |  | 
+Māngere | BOURKE, Rosemary | 5585 | National Party | 5656
+Māngere | JOSEPH, Pothen | 670 | ACT New Zealand | 624
+Māngere | PAO STANLEY, Brooke | 502 |  | 
+Māngere | PETERS, Hilda | 934 | Te Pāti Māori | 628
+Māngere | SOSENE, Lemauga Lydia | 17285 | Labour Party | 18042
+Māngere | SYKES, Peter | 2712 | Green Party | 2306
+Māngere |  |  | Animal Justice Party | 41
+Māngere |  |  | Aotearoa Legalise Cannabis Party | 120
+Māngere |  |  | DemocracyNZ | 17
+Māngere |  |  | Freedoms NZ | 266
+Māngere |  |  | Leighton Baker Party | 12
+Māngere |  |  | New Conservatives | 54
+Māngere |  |  | New Nation Party | 11
+Māngere |  |  | New Zealand First Party | 973
+Māngere |  |  | New Zealand Loyal | 94
+Māngere |  |  | NewZeal | 244
+Māngere |  |  | The Opportunities Party (TOP) | 272
+Māngere |  |  | Women’s Rights Party | 26
+Bay of Plenty | GILLESPIE, Wendy | 524 | Leighton Baker Party | 58
+Bay of Plenty | GRATTAN, Caitlin | 375 | Animal Justice Party | 88
+Bay of Plenty | LUXTON, Cameron | 4202 | ACT New Zealand | 5212
+Bay of Plenty | MACMILLAN, Matthew | 4036 | Green Party | 3635
+Bay of Plenty | MURFITT, Kirsten | 4025 | New Zealand First Party | 3957
+Bay of Plenty | RUTHERFORD, Tom | 23303 | National Party | 21452
+Bay of Plenty | TAIKATO, Pare | 7898 | Labour Party | 7905
+Bay of Plenty | WAHED, Taupo | 204 |  | 
+Bay of Plenty |  |  | Aotearoa Legalise Cannabis Party | 193
+Bay of Plenty |  |  | DemocracyNZ | 79
+Bay of Plenty |  |  | Freedoms NZ | 140
+Bay of Plenty |  |  | New Conservatives | 56
+Bay of Plenty |  |  | New Nation Party | 24
+Bay of Plenty |  |  | New Zealand Loyal | 714
+Bay of Plenty |  |  | NewZeal | 444
+Bay of Plenty |  |  | Te Pāti Māori | 577
+Bay of Plenty |  |  | The Opportunities Party (TOP) | 894
+Bay of Plenty |  |  | Women’s Rights Party | 24
+Hamilton West | DOYLE, Benjamin | 3230 | Green Party | 3863
+Hamilton West | DU PLOOY, Rudi | 323 |  | 
+Hamilton West | POCOCK, Naomi | 1048 | The Opportunities Party (TOP) | 967
+Hamilton West | POTAKA, Tama William | 17595 | National Party | 16026
+Hamilton West | STEVENSON, Susan | 2216 | ACT New Zealand | 3398
+Hamilton West | STONE, Kevin | 1737 | New Zealand First Party | 2410
+Hamilton West | WILLIAMSON, Myra | 11107 | Labour Party | 10242
+Hamilton West | WILSON, Melanie | 326 | Animal Justice Party | 94
+Hamilton West |  |  | Aotearoa Legalise Cannabis Party | 169
+Hamilton West |  |  | DemocracyNZ | 55
+Hamilton West |  |  | Freedoms NZ | 141
+Hamilton West |  |  | Leighton Baker Party | 17
+Hamilton West |  |  | New Conservatives | 97
+Hamilton West |  |  | New Nation Party | 24
+Hamilton West |  |  | New Zealand Loyal | 322
+Hamilton West |  |  | NewZeal | 163
+Hamilton West |  |  | Te Pāti Māori | 711
+Hamilton West |  |  | Women’s Rights Party | 37
+Taieri | DONG, Changrong | 142 |  | 
+Taieri | FRENCH, Matthew | 15136 | National Party | 14206
+Taieri | GARDNER, Mac | 286 |  | 
+Taieri | LEARY, Ingrid | 16579 | Labour Party | 14507
+Taieri | MEFFAN, Burty | 1697 | ACT New Zealand | 3345
+Taieri | PATTERSON, Mark | 3069 | New Zealand First Party | 3259
+Taieri | ROBERTS, Fred | 663 | New Zealand Loyal | 477
+Taieri | WEBBER, David | 120 |  | 
+Taieri | WILLIS, Scott | 3898 | Green Party | 4581
+Taieri |  |  | Animal Justice Party | 75
+Taieri |  |  | Aotearoa Legalise Cannabis Party | 200
+Taieri |  |  | DemocracyNZ | 66
+Taieri |  |  | Freedoms NZ | 57
+Taieri |  |  | Leighton Baker Party | 23
+Taieri |  |  | New Conservatives | 32
+Taieri |  |  | New Nation Party | 11
+Taieri |  |  | NewZeal | 207
+Taieri |  |  | Te Pāti Māori | 245
+Taieri |  |  | The Opportunities Party (TOP) | 929
+Taieri |  |  | Women’s Rights Party | 39

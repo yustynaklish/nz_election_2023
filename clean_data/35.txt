@@ -1,0 +1,19 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Pakuranga | ALCOCK, John | 262 |  | 
+Pakuranga | BROWN, Simeon | 26105 | National Party | 21458
+Pakuranga | HANCOCK, Nicholas | 471 | Animal Justice Party | 96
+Pakuranga | HENRY, Nerissa | 7395 | Labour Party | 6124
+Pakuranga | PARMAR, Parmjeet | 1298 | ACT New Zealand | 3638
+Pakuranga | SCOTHERN, Phil | 490 | New Zealand Loyal | 236
+Pakuranga |  |  | Aotearoa Legalise Cannabis Party | 115
+Pakuranga |  |  | DemocracyNZ | 30
+Pakuranga |  |  | Freedoms NZ | 87
+Pakuranga |  |  | Green Party | 2650
+Pakuranga |  |  | Leighton Baker Party | 15
+Pakuranga |  |  | New Conservatives | 54
+Pakuranga |  |  | New Nation Party | 5
+Pakuranga |  |  | New Zealand First Party | 1397
+Pakuranga |  |  | NewZeal | 136
+Pakuranga |  |  | Te Pāti Māori | 184
+Pakuranga |  |  | The Opportunities Party (TOP) | 531
+Pakuranga |  |  | Women’s Rights Party | 27

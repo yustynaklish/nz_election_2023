@@ -1,0 +1,18 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Waimakariri | BAKER, Leighton | 1815 | Leighton Baker Party | 302
+Waimakariri | CAMPBELL, Ross Eric | 2066 | ACT New Zealand | 4941
+Waimakariri | DOOCEY, Matt | 26816 | National Party | 19969
+Waimakariri | MALCOLM, Gordon | 1530 | DemocracyNZ | 461
+Waimakariri | ROSEWARNE, Dan | 13806 | Labour Party | 11317
+Waimakariri |  |  | Animal Justice Party | 102
+Waimakariri |  |  | Aotearoa Legalise Cannabis Party | 179
+Waimakariri |  |  | Freedoms NZ | 82
+Waimakariri |  |  | Green Party | 3996
+Waimakariri |  |  | New Conservatives | 108
+Waimakariri |  |  | New Nation Party | 20
+Waimakariri |  |  | New Zealand First Party | 3285
+Waimakariri |  |  | New Zealand Loyal | 440
+Waimakariri |  |  | NewZeal | 199
+Waimakariri |  |  | Te Pāti Māori | 238
+Waimakariri |  |  | The Opportunities Party (TOP) | 1034
+Waimakariri |  |  | Women’s Rights Party | 48

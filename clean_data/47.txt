@@ -1,0 +1,21 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Taieri | DONG, Changrong | 142 |  | 
+Taieri | FRENCH, Matthew | 15136 | National Party | 14206
+Taieri | GARDNER, Mac | 286 |  | 
+Taieri | LEARY, Ingrid | 16579 | Labour Party | 14507
+Taieri | MEFFAN, Burty | 1697 | ACT New Zealand | 3345
+Taieri | PATTERSON, Mark | 3069 | New Zealand First Party | 3259
+Taieri | ROBERTS, Fred | 663 | New Zealand Loyal | 477
+Taieri | WEBBER, David | 120 |  | 
+Taieri | WILLIS, Scott | 3898 | Green Party | 4581
+Taieri |  |  | Animal Justice Party | 75
+Taieri |  |  | Aotearoa Legalise Cannabis Party | 200
+Taieri |  |  | DemocracyNZ | 66
+Taieri |  |  | Freedoms NZ | 57
+Taieri |  |  | Leighton Baker Party | 23
+Taieri |  |  | New Conservatives | 32
+Taieri |  |  | New Nation Party | 11
+Taieri |  |  | NewZeal | 207
+Taieri |  |  | Te Pāti Māori | 245
+Taieri |  |  | The Opportunities Party (TOP) | 929
+Taieri |  |  | Women’s Rights Party | 39

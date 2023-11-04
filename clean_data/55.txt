@@ -1,0 +1,20 @@
+electorate_name | candidate_name | candidate_votes | party_name | party_votes 
+Upper Harbour | BREWER, Cameron | 21498 | National Party | 20689
+Upper Harbour | CHHOUR, Karen | 2313 | ACT New Zealand | 3483
+Upper Harbour | CORBETT, Tony | 83 |  | 
+Upper Harbour | DOYLE, Thea | 3018 | Green Party | 3872
+Upper Harbour | NAVOT, Shai | 1109 | The Opportunities Party (TOP) | 884
+Upper Harbour | NEWMAN, Chris | 387 | New Zealand Loyal | 275
+Upper Harbour | SOARES, Bernadette | 137 |  | 
+Upper Harbour | WALTERS, Vanushi | 10306 | Labour Party | 9314
+Upper Harbour | WILSON, David Ashley | 1330 | New Zealand First Party | 1671
+Upper Harbour |  |  | Animal Justice Party | 48
+Upper Harbour |  |  | Aotearoa Legalise Cannabis Party | 141
+Upper Harbour |  |  | DemocracyNZ | 33
+Upper Harbour |  |  | Freedoms NZ | 92
+Upper Harbour |  |  | Leighton Baker Party | 12
+Upper Harbour |  |  | New Conservatives | 93
+Upper Harbour |  |  | New Nation Party | 4
+Upper Harbour |  |  | NewZeal | 207
+Upper Harbour |  |  | Te Pāti Māori | 328
+Upper Harbour |  |  | Women’s Rights Party | 31
